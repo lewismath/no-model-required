@@ -1,8 +1,10 @@
+<img src="assets/adsc_logo.jpg" align="right" width="110" alt="Adelaide Data Science Centre">
+
 # No Model Required
 
 **Text Entropy Rate Filtering Mitigates Iterative Fine-Tuning Collapse**
 
-[Lewis Mitchell](mailto:lewis.mitchell@adelaide.edu.au) · Adelaide Data Science Centre, University of Adelaide
+[Lewis Mitchell](mailto:lewis.mitchell@adelaide.edu.au) · Adelaide Data Science Centre, Adelaide University
 **NeurIPS 2026** · [OpenReview](https://openreview.net/forum?id=1rTomFsjg0) · [Paper PDF](https://openreview.net/pdf?id=1rTomFsjg0)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -119,7 +121,7 @@ python compute_summary.py --raw-dir /path/to/phase5-raw
 
 ## Acknowledgments
 
-Computational resources provided by the Phoenix HPC cluster at the University of Adelaide. The $\hat H_K$ estimator implementation builds on [`ProcessEntropy`](https://github.com/tobinsouth/ProcessEntropy) (Tobin South).
+This research was supported by the Australian Government through the Australian Research Council's Discovery Projects funding scheme (project DP210103700). Computational resources provided by the Phoenix HPC cluster at the Adelaide University. The $\hat H_K$ estimator implementation builds on [`ProcessEntropy`](https://github.com/tobinsouth/ProcessEntropy) (Tobin South).
 
 ## License
 
