@@ -1,0 +1,2513 @@
+[
+  {
+    "generation": 0,
+    "domain": "encyclopedic",
+    "topic": "The 1969 Moon Landing",
+    "mean_h_l": 6.808617726889786,
+    "h_k": 2.6588110955968185,
+    "h_k_trunc": null,
+    "n_tokens": 4144
+  },
+  {
+    "generation": 0,
+    "domain": "encyclopedic",
+    "topic": "Photosynthesis Process in Green Plants",
+    "mean_h_l": 7.776997065614199,
+    "h_k": 0.03934277813559427,
+    "h_k_trunc": 0.10550384976565329,
+    "n_tokens": 4001
+  },
+  {
+    "generation": 0,
+    "domain": "encyclopedic",
+    "topic": "Mount Kilimanjaro's Geographical Significance",
+    "mean_h_l": 1.9258123118980885,
+    "h_k": 0.47501740916582313,
+    "h_k_trunc": 3.9800863767818813,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 0,
+    "domain": "encyclopedic",
+    "topic": "Achievements of Marie Curie in Science",
+    "mean_h_l": 6.563672144659634,
+    "h_k": 0.04269002896671047,
+    "h_k_trunc": 0.17682250838007268,
+    "n_tokens": 4065
+  },
+  {
+    "generation": 0,
+    "domain": "encyclopedic",
+    "topic": "Invention of the Printing Press by Gutenberg",
+    "mean_h_l": 2.127449788979431,
+    "h_k": 1.5684045146278194,
+    "h_k_trunc": 2.3668685102046476,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 0,
+    "domain": "encyclopedic",
+    "topic": "The Byzantine Empire's Political Structure",
+    "mean_h_l": 3.461697088859169,
+    "h_k": 0.10454923540320081,
+    "h_k_trunc": 0.15221389034154645,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 0,
+    "domain": "encyclopedic",
+    "topic": "Cultural Impact of The Beatles in the 1960s",
+    "mean_h_l": 1.9243177879225362,
+    "h_k": 3.1088662522050967,
+    "h_k_trunc": 2.9686235797741922,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 0,
+    "domain": "encyclopedic",
+    "topic": "The Development of Quantum Computing",
+    "mean_h_l": 1.7686940781316705,
+    "h_k": 2.552949028049939,
+    "h_k_trunc": 3.250803963472873,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 0,
+    "domain": "encyclopedic",
+    "topic": "Endangered Giant Panda Conservation Efforts",
+    "mean_h_l": 2.7543989688894372,
+    "h_k": 3.417697301685596,
+    "h_k_trunc": null,
+    "n_tokens": 4059
+  },
+  {
+    "generation": 0,
+    "domain": "encyclopedic",
+    "topic": "The Neolithic Revolution and Agriculture",
+    "mean_h_l": 3.2666757355681164,
+    "h_k": 0.3448946456368511,
+    "h_k_trunc": 0.26555349031059505,
+    "n_tokens": 4004
+  },
+  {
+    "generation": 0,
+    "domain": "creative",
+    "topic": "Elderly watchmaker discovers secrets in ticking memories",
+    "mean_h_l": 2.1065922076819468,
+    "h_k": 5.086046537599113,
+    "h_k_trunc": 4.827869017769638,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 0,
+    "domain": "creative",
+    "topic": "Errant emails ignite a global philosophical debate",
+    "mean_h_l": 3.556583593332501,
+    "h_k": 3.4091708546120523,
+    "h_k_trunc": 3.2228133050932932,
+    "n_tokens": 4145
+  },
+  {
+    "generation": 0,
+    "domain": "creative",
+    "topic": "A small town shaped by the echoes of vanished trains",
+    "mean_h_l": 7.246459743521177,
+    "h_k": 0.061694020099351043,
+    "h_k_trunc": 1.0681820467394711,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 0,
+    "domain": "creative",
+    "topic": "Artist trapped in a monochrome world longs for color",
+    "mean_h_l": 1.8191850594578676,
+    "h_k": 0.3357180991853758,
+    "h_k_trunc": 2.3130344912187897,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 0,
+    "domain": "creative",
+    "topic": "Reunion of childhood pen pals after decades of silence",
+    "mean_h_l": 2.2493919928939925,
+    "h_k": 0.6748861982700912,
+    "h_k_trunc": 3.112631653637112,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 0,
+    "domain": "creative",
+    "topic": "Migrant chef's quest for lost flavors amidst urban chaos",
+    "mean_h_l": 2.408387454183358,
+    "h_k": 5.1487263885364785,
+    "h_k_trunc": 5.118549830425473,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 0,
+    "domain": "creative",
+    "topic": "Notes scrawled on a wall change destinies in a tenement",
+    "mean_h_l": 1.9324351133970887,
+    "h_k": 3.639568189127983,
+    "h_k_trunc": 3.6388286331609665,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 0,
+    "domain": "creative",
+    "topic": "Retired detective haunted by unsolved crickets' serenade",
+    "mean_h_l": 2.24713780413723,
+    "h_k": 4.980504086809407,
+    "h_k_trunc": 4.869744282108803,
+    "n_tokens": 4031
+  },
+  {
+    "generation": 0,
+    "domain": "creative",
+    "topic": "Centuries-old oak tree witnesses the decay of a lineage",
+    "mean_h_l": 1.8313658753066386,
+    "h_k": 3.795363569618565,
+    "h_k_trunc": 3.3115218551474705,
+    "n_tokens": 4141
+  },
+  {
+    "generation": 0,
+    "domain": "creative",
+    "topic": "Photographs left behind speak truths an attic divulges",
+    "mean_h_l": 1.9705018873790399,
+    "h_k": 1.338605656190865,
+    "h_k_trunc": 2.8063276952192147,
+    "n_tokens": 4023
+  },
+  {
+    "generation": 0,
+    "domain": "scientific",
+    "topic": "CRISPR-Cas systems and their applications in genome editing",
+    "mean_h_l": 6.121806942856893,
+    "h_k": 0.03619822763042916,
+    "h_k_trunc": 0.08015384321241015,
+    "n_tokens": 4104
+  },
+  {
+    "generation": 0,
+    "domain": "scientific",
+    "topic": "Quantum entanglement in semiconductor nanostructures",
+    "mean_h_l": 1.5686104769300737,
+    "h_k": 1.5862002473953916,
+    "h_k_trunc": 2.927029961680256,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 0,
+    "domain": "scientific",
+    "topic": "Advances in lithium-sulfur battery technology",
+    "mean_h_l": 1.7238149868716046,
+    "h_k": 2.6068899834740638,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 0,
+    "domain": "scientific",
+    "topic": "Machine learning algorithms for drug discovery",
+    "mean_h_l": 1.6368634789012515,
+    "h_k": 1.3709304979251236,
+    "h_k_trunc": 1.0767606223905273,
+    "n_tokens": 4117
+  },
+  {
+    "generation": 0,
+    "domain": "scientific",
+    "topic": "The role of gut microbiota in metabolic disorders",
+    "mean_h_l": 2.2035317722481294,
+    "h_k": 2.742039388738941,
+    "h_k_trunc": 2.748792825090791,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 0,
+    "domain": "scientific",
+    "topic": "Graphene oxide membranes for water desalination",
+    "mean_h_l": 6.53501502851773,
+    "h_k": 0.05899217520224453,
+    "h_k_trunc": 0.3601385120565297,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 0,
+    "domain": "scientific",
+    "topic": "Superconductivity in iron-based materials",
+    "mean_h_l": 6.739991098969535,
+    "h_k": 0.057613489450146826,
+    "h_k_trunc": 0.35607009126233885,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 0,
+    "domain": "scientific",
+    "topic": "Neural network pruning methods for efficient AI models",
+    "mean_h_l": 6.41329765709254,
+    "h_k": 0.03624437832094088,
+    "h_k_trunc": 0.08140216895080112,
+    "n_tokens": 4189
+  },
+  {
+    "generation": 0,
+    "domain": "scientific",
+    "topic": "Geochemical cycles of rare earth elements",
+    "mean_h_l": 1.9153105416675893,
+    "h_k": 3.569165126113336,
+    "h_k_trunc": 3.2606370063145937,
+    "n_tokens": 4121
+  },
+  {
+    "generation": 0,
+    "domain": "scientific",
+    "topic": "Plasmonic nanoparticles for molecular sensing",
+    "mean_h_l": 5.985841602154641,
+    "h_k": 0.04197587378684595,
+    "h_k_trunc": 0.13887957483078903,
+    "n_tokens": 4192
+  },
+  {
+    "generation": 0,
+    "domain": "conversational",
+    "topic": "The art of people-watching in public parks",
+    "mean_h_l": 2.021627079513499,
+    "h_k": 1.064518868031885,
+    "h_k_trunc": 0.7797339522362744,
+    "n_tokens": 4143
+  },
+  {
+    "generation": 0,
+    "domain": "conversational",
+    "topic": "Why rainy days make me feel nostalgic",
+    "mean_h_l": 5.39270404414295,
+    "h_k": 0.08655747441438753,
+    "h_k_trunc": 2.7819928623092927,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 0,
+    "domain": "conversational",
+    "topic": "Cultural differences in greeting etiquette",
+    "mean_h_l": 2.6124825017483952,
+    "h_k": 3.999744066042802,
+    "h_k_trunc": 3.5770062194305967,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 0,
+    "domain": "conversational",
+    "topic": "The joy of cooking without a recipe",
+    "mean_h_l": 7.132060140286092,
+    "h_k": 0.04936894246542593,
+    "h_k_trunc": 0.349775654563969,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 0,
+    "domain": "conversational",
+    "topic": "Experiences with unexpected kindness from strangers",
+    "mean_h_l": 1.8711555985253314,
+    "h_k": 4.170719995850278,
+    "h_k_trunc": 3.977736510286364,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 0,
+    "domain": "conversational",
+    "topic": "Why I prefer handwritten letters over emails",
+    "mean_h_l": 3.673536163407711,
+    "h_k": 3.1953403490035677,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 0,
+    "domain": "conversational",
+    "topic": "Exploring local urban legends and folklore",
+    "mean_h_l": 2.1110747495271553,
+    "h_k": 1.7126021748059568,
+    "h_k_trunc": 1.7634579804469386,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 0,
+    "domain": "conversational",
+    "topic": "The evolution of my fashion sense through the years",
+    "mean_h_l": 1.9900949658847444,
+    "h_k": 4.80230362440645,
+    "h_k_trunc": 5.018466453852908,
+    "n_tokens": 4103
+  },
+  {
+    "generation": 0,
+    "domain": "conversational",
+    "topic": "Reflections on the concept of home",
+    "mean_h_l": 2.4998719559904714,
+    "h_k": 0.9111951555320577,
+    "h_k_trunc": 0.6621741819546444,
+    "n_tokens": 4123
+  },
+  {
+    "generation": 0,
+    "domain": "conversational",
+    "topic": "Personal rituals for a peaceful morning",
+    "mean_h_l": 6.518047138111039,
+    "h_k": 0.04774553873252885,
+    "h_k_trunc": 0.3490101126345591,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 1,
+    "domain": "encyclopedic",
+    "topic": "The 1969 Moon Landing",
+    "mean_h_l": 1.756150749781452,
+    "h_k": 2.537624369398638,
+    "h_k_trunc": 2.495524109379583,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 1,
+    "domain": "encyclopedic",
+    "topic": "Photosynthesis Process in Green Plants",
+    "mean_h_l": 1.9575100491492077,
+    "h_k": 2.073889953115353,
+    "h_k_trunc": 1.9738639754771932,
+    "n_tokens": 4182
+  },
+  {
+    "generation": 1,
+    "domain": "encyclopedic",
+    "topic": "Mount Kilimanjaro's Geographical Significance",
+    "mean_h_l": 1.5849008250566463,
+    "h_k": 2.0918888470675276,
+    "h_k_trunc": 3.4444229111950557,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 1,
+    "domain": "encyclopedic",
+    "topic": "Achievements of Marie Curie in Science",
+    "mean_h_l": 1.8192615127525362,
+    "h_k": 1.2205160822357581,
+    "h_k_trunc": 0.9746180918299562,
+    "n_tokens": 4088
+  },
+  {
+    "generation": 1,
+    "domain": "encyclopedic",
+    "topic": "Invention of the Printing Press by Gutenberg",
+    "mean_h_l": 1.7474809616193812,
+    "h_k": 0.9794634500605172,
+    "h_k_trunc": 0.7348903726975026,
+    "n_tokens": 4068
+  },
+  {
+    "generation": 1,
+    "domain": "encyclopedic",
+    "topic": "The Byzantine Empire's Political Structure",
+    "mean_h_l": 1.657259957998991,
+    "h_k": 2.853208336713081,
+    "h_k_trunc": 2.9267120826661728,
+    "n_tokens": 4014
+  },
+  {
+    "generation": 1,
+    "domain": "encyclopedic",
+    "topic": "Cultural Impact of The Beatles in the 1960s",
+    "mean_h_l": 2.18126162438794,
+    "h_k": 1.6770111498295315,
+    "h_k_trunc": 1.6179854020887439,
+    "n_tokens": 4172
+  },
+  {
+    "generation": 1,
+    "domain": "encyclopedic",
+    "topic": "The Development of Quantum Computing",
+    "mean_h_l": 1.7377906111206278,
+    "h_k": 1.78240109428653,
+    "h_k_trunc": 1.3957512356116697,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 1,
+    "domain": "encyclopedic",
+    "topic": "Endangered Giant Panda Conservation Efforts",
+    "mean_h_l": 1.5781394006014582,
+    "h_k": 2.824918085940146,
+    "h_k_trunc": 2.567076096131655,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 1,
+    "domain": "encyclopedic",
+    "topic": "The Neolithic Revolution and Agriculture",
+    "mean_h_l": 3.774898407282828,
+    "h_k": 0.21601490602163123,
+    "h_k_trunc": 2.259698545798266,
+    "n_tokens": 4033
+  },
+  {
+    "generation": 1,
+    "domain": "creative",
+    "topic": "Elderly watchmaker discovers secrets in ticking memories",
+    "mean_h_l": 2.2432533656657117,
+    "h_k": 3.952848668609382,
+    "h_k_trunc": 3.68157989852324,
+    "n_tokens": 4015
+  },
+  {
+    "generation": 1,
+    "domain": "creative",
+    "topic": "Errant emails ignite a global philosophical debate",
+    "mean_h_l": 3.873378149522554,
+    "h_k": 2.7308812434052734,
+    "h_k_trunc": 2.443482170386265,
+    "n_tokens": 4016
+  },
+  {
+    "generation": 1,
+    "domain": "creative",
+    "topic": "A small town shaped by the echoes of vanished trains",
+    "mean_h_l": 1.4757334078201512,
+    "h_k": 0.9796607911238504,
+    "h_k_trunc": 1.876290806738851,
+    "n_tokens": 4062
+  },
+  {
+    "generation": 1,
+    "domain": "creative",
+    "topic": "Artist trapped in a monochrome world longs for color",
+    "mean_h_l": 2.26855809543726,
+    "h_k": 4.172937687050706,
+    "h_k_trunc": 3.9164605227714167,
+    "n_tokens": 4070
+  },
+  {
+    "generation": 1,
+    "domain": "creative",
+    "topic": "Reunion of childhood pen pals after decades of silence",
+    "mean_h_l": 1.758583944862014,
+    "h_k": 3.544104602446607,
+    "h_k_trunc": 3.807454769311969,
+    "n_tokens": 4062
+  },
+  {
+    "generation": 1,
+    "domain": "creative",
+    "topic": "Migrant chef's quest for lost flavors amidst urban chaos",
+    "mean_h_l": 1.6962637141940229,
+    "h_k": 2.115353340286553,
+    "h_k_trunc": 2.130874109052749,
+    "n_tokens": 4139
+  },
+  {
+    "generation": 1,
+    "domain": "creative",
+    "topic": "Notes scrawled on a wall change destinies in a tenement",
+    "mean_h_l": 2.2092780198776945,
+    "h_k": 3.0715566980617393,
+    "h_k_trunc": 2.5793611080771552,
+    "n_tokens": 4108
+  },
+  {
+    "generation": 1,
+    "domain": "creative",
+    "topic": "Retired detective haunted by unsolved crickets' serenade",
+    "mean_h_l": 2.4079940276353007,
+    "h_k": 3.0893725283162006,
+    "h_k_trunc": 2.970586955157641,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 1,
+    "domain": "creative",
+    "topic": "Centuries-old oak tree witnesses the decay of a lineage",
+    "mean_h_l": 1.7614689336020692,
+    "h_k": 1.3763733937969131,
+    "h_k_trunc": 1.2392129883289702,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 1,
+    "domain": "creative",
+    "topic": "Photographs left behind speak truths an attic divulges",
+    "mean_h_l": 1.261879552165023,
+    "h_k": 1.0330429723621384,
+    "h_k_trunc": 1.9406037918333778,
+    "n_tokens": 4020
+  },
+  {
+    "generation": 1,
+    "domain": "scientific",
+    "topic": "CRISPR-Cas systems and their applications in genome editing",
+    "mean_h_l": 1.6313227404714068,
+    "h_k": 1.913978937178289,
+    "h_k_trunc": 2.9824219629471136,
+    "n_tokens": 4147
+  },
+  {
+    "generation": 1,
+    "domain": "scientific",
+    "topic": "Quantum entanglement in semiconductor nanostructures",
+    "mean_h_l": 1.4515610100966527,
+    "h_k": 1.1094141190136495,
+    "h_k_trunc": 1.0809933757396757,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 1,
+    "domain": "scientific",
+    "topic": "Advances in lithium-sulfur battery technology",
+    "mean_h_l": 1.8690912245268962,
+    "h_k": 2.9287552478555687,
+    "h_k_trunc": 2.6103414235945483,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 1,
+    "domain": "scientific",
+    "topic": "Machine learning algorithms for drug discovery",
+    "mean_h_l": 1.7769872381928866,
+    "h_k": 2.5562568111415915,
+    "h_k_trunc": 2.520498022557998,
+    "n_tokens": 4024
+  },
+  {
+    "generation": 1,
+    "domain": "scientific",
+    "topic": "The role of gut microbiota in metabolic disorders",
+    "mean_h_l": 1.6035591560997082,
+    "h_k": 2.02142834845261,
+    "h_k_trunc": 1.683901828117353,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 1,
+    "domain": "scientific",
+    "topic": "Graphene oxide membranes for water desalination",
+    "mean_h_l": 2.0223987241520116,
+    "h_k": 3.9476031678260326,
+    "h_k_trunc": 3.8187848741944332,
+    "n_tokens": 4189
+  },
+  {
+    "generation": 1,
+    "domain": "scientific",
+    "topic": "Superconductivity in iron-based materials",
+    "mean_h_l": 2.0563828115995153,
+    "h_k": 2.0188577477509315,
+    "h_k_trunc": 1.8885189108051939,
+    "n_tokens": 4170
+  },
+  {
+    "generation": 1,
+    "domain": "scientific",
+    "topic": "Neural network pruning methods for efficient AI models",
+    "mean_h_l": 1.8024114689784358,
+    "h_k": 3.359474687450079,
+    "h_k_trunc": 3.13398823784046,
+    "n_tokens": 4021
+  },
+  {
+    "generation": 1,
+    "domain": "scientific",
+    "topic": "Geochemical cycles of rare earth elements",
+    "mean_h_l": 2.1513828650938636,
+    "h_k": 1.36290138224282,
+    "h_k_trunc": 2.2826668522099034,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 1,
+    "domain": "scientific",
+    "topic": "Plasmonic nanoparticles for molecular sensing",
+    "mean_h_l": 2.03912279032358,
+    "h_k": 0.39566955055677,
+    "h_k_trunc": 0.3015426128966904,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 1,
+    "domain": "conversational",
+    "topic": "The art of people-watching in public parks",
+    "mean_h_l": 1.7344922739338733,
+    "h_k": 0.4956602455966521,
+    "h_k_trunc": 0.3590301868772081,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 1,
+    "domain": "conversational",
+    "topic": "Why rainy days make me feel nostalgic",
+    "mean_h_l": 2.242135659138666,
+    "h_k": 2.5191966023726295,
+    "h_k_trunc": 2.077327129976884,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 1,
+    "domain": "conversational",
+    "topic": "Cultural differences in greeting etiquette",
+    "mean_h_l": 1.4245776241811723,
+    "h_k": 1.9963173522277988,
+    "h_k_trunc": 2.3470793291404037,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 1,
+    "domain": "conversational",
+    "topic": "The joy of cooking without a recipe",
+    "mean_h_l": 1.959327056528596,
+    "h_k": 2.4306310480189803,
+    "h_k_trunc": 2.374794224285347,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 1,
+    "domain": "conversational",
+    "topic": "Experiences with unexpected kindness from strangers",
+    "mean_h_l": 1.9187820502396287,
+    "h_k": 2.8549533394928552,
+    "h_k_trunc": 3.2251274362362516,
+    "n_tokens": 4112
+  },
+  {
+    "generation": 1,
+    "domain": "conversational",
+    "topic": "Why I prefer handwritten letters over emails",
+    "mean_h_l": 1.6518733566274706,
+    "h_k": 0.7073300369596324,
+    "h_k_trunc": 3.587004506480782,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 1,
+    "domain": "conversational",
+    "topic": "Exploring local urban legends and folklore",
+    "mean_h_l": 1.8540178015037279,
+    "h_k": 2.3383904300106284,
+    "h_k_trunc": 1.8885189108051939,
+    "n_tokens": 4077
+  },
+  {
+    "generation": 1,
+    "domain": "conversational",
+    "topic": "The evolution of my fashion sense through the years",
+    "mean_h_l": 2.0682635849837117,
+    "h_k": 4.378628826887376,
+    "h_k_trunc": 4.120667409356287,
+    "n_tokens": 4095
+  },
+  {
+    "generation": 1,
+    "domain": "conversational",
+    "topic": "Reflections on the concept of home",
+    "mean_h_l": 1.6508180949992772,
+    "h_k": 2.069425578938528,
+    "h_k_trunc": 1.895026007818727,
+    "n_tokens": 4009
+  },
+  {
+    "generation": 1,
+    "domain": "conversational",
+    "topic": "Personal rituals for a peaceful morning",
+    "mean_h_l": 1.8479832788108757,
+    "h_k": 1.6799313318266949,
+    "h_k_trunc": 1.2821945407360413,
+    "n_tokens": 4102
+  },
+  {
+    "generation": 2,
+    "domain": "encyclopedic",
+    "topic": "The 1969 Moon Landing",
+    "mean_h_l": 2.564329170992635,
+    "h_k": 2.181808994820296,
+    "h_k_trunc": 1.8125615319605943,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 2,
+    "domain": "encyclopedic",
+    "topic": "Photosynthesis Process in Green Plants",
+    "mean_h_l": 1.9984358442739996,
+    "h_k": 2.3365850324858717,
+    "h_k_trunc": 2.1254960846431197,
+    "n_tokens": 4016
+  },
+  {
+    "generation": 2,
+    "domain": "encyclopedic",
+    "topic": "Mount Kilimanjaro's Geographical Significance",
+    "mean_h_l": 1.6992909757655907,
+    "h_k": 0.5203990518619124,
+    "h_k_trunc": 0.38751800838603623,
+    "n_tokens": 4126
+  },
+  {
+    "generation": 2,
+    "domain": "encyclopedic",
+    "topic": "Achievements of Marie Curie in Science",
+    "mean_h_l": 1.7797989197814195,
+    "h_k": 1.6227979507848536,
+    "h_k_trunc": 1.4301191284859964,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 2,
+    "domain": "encyclopedic",
+    "topic": "Invention of the Printing Press by Gutenberg",
+    "mean_h_l": 1.8529022652373832,
+    "h_k": 1.6496566557270524,
+    "h_k_trunc": 1.5265189111357265,
+    "n_tokens": 4042
+  },
+  {
+    "generation": 2,
+    "domain": "encyclopedic",
+    "topic": "The Byzantine Empire's Political Structure",
+    "mean_h_l": 1.4407566942793384,
+    "h_k": 1.253094222501596,
+    "h_k_trunc": 1.223293910902865,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 2,
+    "domain": "encyclopedic",
+    "topic": "Cultural Impact of The Beatles in the 1960s",
+    "mean_h_l": 1.6974205672740936,
+    "h_k": 0.6783673206829219,
+    "h_k_trunc": 0.6260695750305522,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 2,
+    "domain": "encyclopedic",
+    "topic": "The Development of Quantum Computing",
+    "mean_h_l": 1.6677615437670361,
+    "h_k": 1.8654942300503006,
+    "h_k_trunc": 1.6257942119443844,
+    "n_tokens": 4087
+  },
+  {
+    "generation": 2,
+    "domain": "encyclopedic",
+    "topic": "Endangered Giant Panda Conservation Efforts",
+    "mean_h_l": 1.3456334765756006,
+    "h_k": 0.3368052749447287,
+    "h_k_trunc": 0.6276735730101343,
+    "n_tokens": 4142
+  },
+  {
+    "generation": 2,
+    "domain": "encyclopedic",
+    "topic": "The Neolithic Revolution and Agriculture",
+    "mean_h_l": 1.2320892721317684,
+    "h_k": 1.0458519637475625,
+    "h_k_trunc": 1.04482475311868,
+    "n_tokens": 4007
+  },
+  {
+    "generation": 2,
+    "domain": "creative",
+    "topic": "Elderly watchmaker discovers secrets in ticking memories",
+    "mean_h_l": 2.168734774530099,
+    "h_k": 0.5122568925141675,
+    "h_k_trunc": 0.40147731630823263,
+    "n_tokens": 4002
+  },
+  {
+    "generation": 2,
+    "domain": "creative",
+    "topic": "Errant emails ignite a global philosophical debate",
+    "mean_h_l": 1.58949170876161,
+    "h_k": 1.0499137607391527,
+    "h_k_trunc": 1.0192188214209037,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 2,
+    "domain": "creative",
+    "topic": "A small town shaped by the echoes of vanished trains",
+    "mean_h_l": 1.7210649916572434,
+    "h_k": 1.2673003375922258,
+    "h_k_trunc": 1.1888113660589403,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 2,
+    "domain": "creative",
+    "topic": "Artist trapped in a monochrome world longs for color",
+    "mean_h_l": 1.664308334047561,
+    "h_k": 0.793483337096664,
+    "h_k_trunc": 1.6188601464041639,
+    "n_tokens": 4172
+  },
+  {
+    "generation": 2,
+    "domain": "creative",
+    "topic": "Reunion of childhood pen pals after decades of silence",
+    "mean_h_l": 1.3500905353607071,
+    "h_k": 0.5530915188019884,
+    "h_k_trunc": 0.5726189332849609,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 2,
+    "domain": "creative",
+    "topic": "Migrant chef's quest for lost flavors amidst urban chaos",
+    "mean_h_l": 2.3957963585118263,
+    "h_k": 0.8681603899001102,
+    "h_k_trunc": 0.6882863783314633,
+    "n_tokens": 4064
+  },
+  {
+    "generation": 2,
+    "domain": "creative",
+    "topic": "Notes scrawled on a wall change destinies in a tenement",
+    "mean_h_l": 1.580002349147303,
+    "h_k": 0.20258038379892893,
+    "h_k_trunc": 0.19914107943861992,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 2,
+    "domain": "creative",
+    "topic": "Retired detective haunted by unsolved crickets' serenade",
+    "mean_h_l": 1.4859131838053021,
+    "h_k": 0.17572647702100402,
+    "h_k_trunc": 1.9872549854133261,
+    "n_tokens": 4167
+  },
+  {
+    "generation": 2,
+    "domain": "creative",
+    "topic": "Centuries-old oak tree witnesses the decay of a lineage",
+    "mean_h_l": 1.7898482769298636,
+    "h_k": 0.9019401291928043,
+    "h_k_trunc": 0.6868829295302573,
+    "n_tokens": 4131
+  },
+  {
+    "generation": 2,
+    "domain": "creative",
+    "topic": "Photographs left behind speak truths an attic divulges",
+    "mean_h_l": 2.0485999833119974,
+    "h_k": 1.3605792738184184,
+    "h_k_trunc": 1.5161274181260262,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 2,
+    "domain": "scientific",
+    "topic": "CRISPR-Cas systems and their applications in genome editing",
+    "mean_h_l": 1.4420727044987782,
+    "h_k": 0.888679602427817,
+    "h_k_trunc": 0.8607481828608424,
+    "n_tokens": 4174
+  },
+  {
+    "generation": 2,
+    "domain": "scientific",
+    "topic": "Quantum entanglement in semiconductor nanostructures",
+    "mean_h_l": 1.7058535050569552,
+    "h_k": 2.335415658978786,
+    "h_k_trunc": 2.5673206494417564,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 2,
+    "domain": "scientific",
+    "topic": "Advances in lithium-sulfur battery technology",
+    "mean_h_l": 1.7470778346559266,
+    "h_k": 1.1765971106261117,
+    "h_k_trunc": 1.2573678373158268,
+    "n_tokens": 4082
+  },
+  {
+    "generation": 2,
+    "domain": "scientific",
+    "topic": "Machine learning algorithms for drug discovery",
+    "mean_h_l": 1.5050436359139994,
+    "h_k": 1.0753359543102772,
+    "h_k_trunc": 0.9369385967107088,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 2,
+    "domain": "scientific",
+    "topic": "The role of gut microbiota in metabolic disorders",
+    "mean_h_l": 1.4020012646124256,
+    "h_k": 1.1775764573829524,
+    "h_k_trunc": 1.0774494185666927,
+    "n_tokens": 4085
+  },
+  {
+    "generation": 2,
+    "domain": "scientific",
+    "topic": "Graphene oxide membranes for water desalination",
+    "mean_h_l": 1.7161634570974813,
+    "h_k": 1.3102678920054789,
+    "h_k_trunc": 2.762883417796813,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 2,
+    "domain": "scientific",
+    "topic": "Superconductivity in iron-based materials",
+    "mean_h_l": 1.415657677237724,
+    "h_k": 0.8360881716723121,
+    "h_k_trunc": 0.6927805875884349,
+    "n_tokens": 4023
+  },
+  {
+    "generation": 2,
+    "domain": "scientific",
+    "topic": "Neural network pruning methods for efficient AI models",
+    "mean_h_l": 1.7938198773441127,
+    "h_k": 0.29876280811924805,
+    "h_k_trunc": 0.2523542700900836,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 2,
+    "domain": "scientific",
+    "topic": "Geochemical cycles of rare earth elements",
+    "mean_h_l": 1.1227566365151673,
+    "h_k": 0.14201490476013626,
+    "h_k_trunc": 0.12820237506274793,
+    "n_tokens": 4068
+  },
+  {
+    "generation": 2,
+    "domain": "scientific",
+    "topic": "Plasmonic nanoparticles for molecular sensing",
+    "mean_h_l": 1.5107475604716094,
+    "h_k": 1.2184594643366817,
+    "h_k_trunc": 1.3287232451035458,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 2,
+    "domain": "conversational",
+    "topic": "The art of people-watching in public parks",
+    "mean_h_l": 0.8999173824897613,
+    "h_k": 0.044370457282408626,
+    "h_k_trunc": 0.05152291714244495,
+    "n_tokens": 4000
+  },
+  {
+    "generation": 2,
+    "domain": "conversational",
+    "topic": "Why rainy days make me feel nostalgic",
+    "mean_h_l": 1.598203093055094,
+    "h_k": 0.6477150827706151,
+    "h_k_trunc": 0.7496707704793066,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 2,
+    "domain": "conversational",
+    "topic": "Cultural differences in greeting etiquette",
+    "mean_h_l": 1.4298328165197165,
+    "h_k": 1.1828573517831429,
+    "h_k_trunc": 1.035510657336796,
+    "n_tokens": 4021
+  },
+  {
+    "generation": 2,
+    "domain": "conversational",
+    "topic": "The joy of cooking without a recipe",
+    "mean_h_l": 2.0871408220635654,
+    "h_k": 2.6181324200517997,
+    "h_k_trunc": 2.789479852726438,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 2,
+    "domain": "conversational",
+    "topic": "Experiences with unexpected kindness from strangers",
+    "mean_h_l": 1.619208629436814,
+    "h_k": 2.1498965021239034,
+    "h_k_trunc": 1.7127980715132907,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 2,
+    "domain": "conversational",
+    "topic": "Why I prefer handwritten letters over emails",
+    "mean_h_l": 1.5959461058104958,
+    "h_k": 0.7338642527114835,
+    "h_k_trunc": 0.6142119805175977,
+    "n_tokens": 4008
+  },
+  {
+    "generation": 2,
+    "domain": "conversational",
+    "topic": "Exploring local urban legends and folklore",
+    "mean_h_l": 1.4584719580116303,
+    "h_k": 0.2083037137028614,
+    "h_k_trunc": 0.1669412859968786,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 2,
+    "domain": "conversational",
+    "topic": "The evolution of my fashion sense through the years",
+    "mean_h_l": 1.5290253013586006,
+    "h_k": 0.3823872102054908,
+    "h_k_trunc": 0.28396237099795707,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 2,
+    "domain": "conversational",
+    "topic": "Reflections on the concept of home",
+    "mean_h_l": 1.1374417564372696,
+    "h_k": 0.7353081077682254,
+    "h_k_trunc": 0.9124793410032545,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 2,
+    "domain": "conversational",
+    "topic": "Personal rituals for a peaceful morning",
+    "mean_h_l": 1.0045180627315435,
+    "h_k": 0.06862300791882134,
+    "h_k_trunc": 0.08334930738194687,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 3,
+    "domain": "encyclopedic",
+    "topic": "The 1969 Moon Landing",
+    "mean_h_l": 1.2115074612561938,
+    "h_k": 0.38231194166254184,
+    "h_k_trunc": 0.8535780076393676,
+    "n_tokens": 4132
+  },
+  {
+    "generation": 3,
+    "domain": "encyclopedic",
+    "topic": "Photosynthesis Process in Green Plants",
+    "mean_h_l": 1.3820778420339357,
+    "h_k": 1.4399063142298179,
+    "h_k_trunc": 1.3637551165017012,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 3,
+    "domain": "encyclopedic",
+    "topic": "Mount Kilimanjaro's Geographical Significance",
+    "mean_h_l": 1.5905791968213991,
+    "h_k": 0.3350386618857935,
+    "h_k_trunc": 0.6736617552542274,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 3,
+    "domain": "encyclopedic",
+    "topic": "Achievements of Marie Curie in Science",
+    "mean_h_l": 1.3350819789295596,
+    "h_k": 0.20057935832854704,
+    "h_k_trunc": 0.24695457413622893,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 3,
+    "domain": "encyclopedic",
+    "topic": "Invention of the Printing Press by Gutenberg",
+    "mean_h_l": 1.1885734694594976,
+    "h_k": 0.03917599898934217,
+    "h_k_trunc": 0.04755195120293423,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 3,
+    "domain": "encyclopedic",
+    "topic": "The Byzantine Empire's Political Structure",
+    "mean_h_l": 1.698082010321312,
+    "h_k": 1.3300638492674492,
+    "h_k_trunc": 1.345843230982327,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 3,
+    "domain": "encyclopedic",
+    "topic": "Cultural Impact of The Beatles in the 1960s",
+    "mean_h_l": 2.0042682464613297,
+    "h_k": 1.3790174825866637,
+    "h_k_trunc": 1.3423572851758376,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 3,
+    "domain": "encyclopedic",
+    "topic": "The Development of Quantum Computing",
+    "mean_h_l": 0.7558650470781553,
+    "h_k": 0.038200781318551945,
+    "h_k_trunc": 0.07235646357145957,
+    "n_tokens": 4012
+  },
+  {
+    "generation": 3,
+    "domain": "encyclopedic",
+    "topic": "Endangered Giant Panda Conservation Efforts",
+    "mean_h_l": 1.1357621602195522,
+    "h_k": 0.3020531272718347,
+    "h_k_trunc": 0.3440377477555803,
+    "n_tokens": 4097
+  },
+  {
+    "generation": 3,
+    "domain": "encyclopedic",
+    "topic": "The Neolithic Revolution and Agriculture",
+    "mean_h_l": 0.9397349449941869,
+    "h_k": 0.2366251124148048,
+    "h_k_trunc": 0.2241132065164503,
+    "n_tokens": 4035
+  },
+  {
+    "generation": 3,
+    "domain": "creative",
+    "topic": "Elderly watchmaker discovers secrets in ticking memories",
+    "mean_h_l": 1.5533752545170214,
+    "h_k": 0.20343722673872486,
+    "h_k_trunc": 0.3730039842377073,
+    "n_tokens": 4000
+  },
+  {
+    "generation": 3,
+    "domain": "creative",
+    "topic": "Errant emails ignite a global philosophical debate",
+    "mean_h_l": 1.6546629504645753,
+    "h_k": 0.7680774731217054,
+    "h_k_trunc": 0.725278274812017,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 3,
+    "domain": "creative",
+    "topic": "A small town shaped by the echoes of vanished trains",
+    "mean_h_l": 1.324724483569501,
+    "h_k": 0.49302540810017564,
+    "h_k_trunc": 0.48228578075790324,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 3,
+    "domain": "creative",
+    "topic": "Artist trapped in a monochrome world longs for color",
+    "mean_h_l": 1.5864335115325459,
+    "h_k": 0.1378031864948642,
+    "h_k_trunc": 0.12636290890893204,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 3,
+    "domain": "creative",
+    "topic": "Reunion of childhood pen pals after decades of silence",
+    "mean_h_l": 1.5821179614283563,
+    "h_k": 0.970670577589572,
+    "h_k_trunc": 0.9097071582902416,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 3,
+    "domain": "creative",
+    "topic": "Migrant chef's quest for lost flavors amidst urban chaos",
+    "mean_h_l": 1.329372810718838,
+    "h_k": 1.0001268125711225,
+    "h_k_trunc": 0.9296662362767393,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 3,
+    "domain": "creative",
+    "topic": "Notes scrawled on a wall change destinies in a tenement",
+    "mean_h_l": 1.9506156966215362,
+    "h_k": 1.2006883907147554,
+    "h_k_trunc": 1.2086995361136579,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 3,
+    "domain": "creative",
+    "topic": "Retired detective haunted by unsolved crickets' serenade",
+    "mean_h_l": 1.4667819770853086,
+    "h_k": 0.8724147474355913,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 3,
+    "domain": "creative",
+    "topic": "Centuries-old oak tree witnesses the decay of a lineage",
+    "mean_h_l": 3.076851566922871,
+    "h_k": 0.7221113538329004,
+    "h_k_trunc": 0.7152873143961704,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 3,
+    "domain": "creative",
+    "topic": "Photographs left behind speak truths an attic divulges",
+    "mean_h_l": 1.4539030006588969,
+    "h_k": 0.8836874129719874,
+    "h_k_trunc": 1.0520031563879502,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 3,
+    "domain": "scientific",
+    "topic": "CRISPR-Cas systems and their applications in genome editing",
+    "mean_h_l": 1.6532289919049346,
+    "h_k": 0.5801571357258342,
+    "h_k_trunc": 0.4543934183784669,
+    "n_tokens": 4022
+  },
+  {
+    "generation": 3,
+    "domain": "scientific",
+    "topic": "Quantum entanglement in semiconductor nanostructures",
+    "mean_h_l": 1.31089822412307,
+    "h_k": 0.8081329437551952,
+    "h_k_trunc": 0.750610390696881,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 3,
+    "domain": "scientific",
+    "topic": "Advances in lithium-sulfur battery technology",
+    "mean_h_l": 1.5303240848051114,
+    "h_k": 0.6104641451215126,
+    "h_k_trunc": 1.350632228596708,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 3,
+    "domain": "scientific",
+    "topic": "Machine learning algorithms for drug discovery",
+    "mean_h_l": 3.0658999003526817,
+    "h_k": 0.17760698884715626,
+    "h_k_trunc": 0.1765896169766535,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 3,
+    "domain": "scientific",
+    "topic": "The role of gut microbiota in metabolic disorders",
+    "mean_h_l": 1.2559702089838398,
+    "h_k": 0.9442118596322049,
+    "h_k_trunc": 0.8148881151821873,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 3,
+    "domain": "scientific",
+    "topic": "Graphene oxide membranes for water desalination",
+    "mean_h_l": 1.865901015928789,
+    "h_k": 2.2081890932091475,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 3,
+    "domain": "scientific",
+    "topic": "Superconductivity in iron-based materials",
+    "mean_h_l": 0.8804177485074117,
+    "h_k": 0.14873837071300744,
+    "h_k_trunc": 0.14031127084397693,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 3,
+    "domain": "scientific",
+    "topic": "Neural network pruning methods for efficient AI models",
+    "mean_h_l": 1.8049871846108405,
+    "h_k": 1.2126583189363014,
+    "h_k_trunc": 0.904516508598715,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 3,
+    "domain": "scientific",
+    "topic": "Geochemical cycles of rare earth elements",
+    "mean_h_l": 1.3606773297736863,
+    "h_k": 0.4046583541487788,
+    "h_k_trunc": 0.5509949878795771,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 3,
+    "domain": "scientific",
+    "topic": "Plasmonic nanoparticles for molecular sensing",
+    "mean_h_l": 1.9213726477218473,
+    "h_k": 0.5629689298725181,
+    "h_k_trunc": 0.4879619913303056,
+    "n_tokens": 4142
+  },
+  {
+    "generation": 3,
+    "domain": "conversational",
+    "topic": "The art of people-watching in public parks",
+    "mean_h_l": 2.4093754840772115,
+    "h_k": 0.463863555584334,
+    "h_k_trunc": 0.422824853413928,
+    "n_tokens": 4051
+  },
+  {
+    "generation": 3,
+    "domain": "conversational",
+    "topic": "Why rainy days make me feel nostalgic",
+    "mean_h_l": 1.2307785124417456,
+    "h_k": 0.4629111887568996,
+    "h_k_trunc": 0.4597029298601252,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 3,
+    "domain": "conversational",
+    "topic": "Cultural differences in greeting etiquette",
+    "mean_h_l": 1.7443933339066533,
+    "h_k": 0.14531213014188843,
+    "h_k_trunc": 0.10702692180712363,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 3,
+    "domain": "conversational",
+    "topic": "The joy of cooking without a recipe",
+    "mean_h_l": 1.6938354524282309,
+    "h_k": 0.5796507972141106,
+    "h_k_trunc": 0.6874786953364825,
+    "n_tokens": 4167
+  },
+  {
+    "generation": 3,
+    "domain": "conversational",
+    "topic": "Experiences with unexpected kindness from strangers",
+    "mean_h_l": 1.2206704402909911,
+    "h_k": 0.3935640989461433,
+    "h_k_trunc": 0.8303036280984107,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 3,
+    "domain": "conversational",
+    "topic": "Why I prefer handwritten letters over emails",
+    "mean_h_l": 2.1508146695396406,
+    "h_k": 1.2885714326297126,
+    "h_k_trunc": 1.0154551737891448,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 3,
+    "domain": "conversational",
+    "topic": "Exploring local urban legends and folklore",
+    "mean_h_l": 1.1957050723718716,
+    "h_k": 0.031207129153639362,
+    "h_k_trunc": 0.05389250932337331,
+    "n_tokens": 4005
+  },
+  {
+    "generation": 3,
+    "domain": "conversational",
+    "topic": "The evolution of my fashion sense through the years",
+    "mean_h_l": 1.5263537114024677,
+    "h_k": 0.5828962191251089,
+    "h_k_trunc": 0.5042410862978786,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 3,
+    "domain": "conversational",
+    "topic": "Reflections on the concept of home",
+    "mean_h_l": 1.4265467401482919,
+    "h_k": 0.4114546955962069,
+    "h_k_trunc": 0.6605835095889332,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 3,
+    "domain": "conversational",
+    "topic": "Personal rituals for a peaceful morning",
+    "mean_h_l": 1.7287150589287665,
+    "h_k": 0.7699615424617896,
+    "h_k_trunc": 0.6759767441038984,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 4,
+    "domain": "encyclopedic",
+    "topic": "The 1969 Moon Landing",
+    "mean_h_l": 1.0350654715251537,
+    "h_k": 0.6224838070745866,
+    "h_k_trunc": null,
+    "n_tokens": 4000
+  },
+  {
+    "generation": 4,
+    "domain": "encyclopedic",
+    "topic": "Photosynthesis Process in Green Plants",
+    "mean_h_l": 0.586343057730632,
+    "h_k": 0.12097092699200311,
+    "h_k_trunc": 0.12099694179031688,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 4,
+    "domain": "encyclopedic",
+    "topic": "Mount Kilimanjaro's Geographical Significance",
+    "mean_h_l": 0.9459092435777698,
+    "h_k": 0.41999147884809945,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 4,
+    "domain": "encyclopedic",
+    "topic": "Achievements of Marie Curie in Science",
+    "mean_h_l": 0.9267245055635439,
+    "h_k": 0.7232338637166699,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 4,
+    "domain": "encyclopedic",
+    "topic": "Invention of the Printing Press by Gutenberg",
+    "mean_h_l": 1.7249742770328758,
+    "h_k": 0.4870936139251516,
+    "h_k_trunc": 0.508772392478433,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 4,
+    "domain": "encyclopedic",
+    "topic": "The Byzantine Empire's Political Structure",
+    "mean_h_l": 0.9988327874860178,
+    "h_k": 0.3406785651958556,
+    "h_k_trunc": 0.3716716066805058,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 4,
+    "domain": "encyclopedic",
+    "topic": "Cultural Impact of The Beatles in the 1960s",
+    "mean_h_l": 0.8687910103070957,
+    "h_k": 0.12065607331136508,
+    "h_k_trunc": 0.11581723455624988,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 4,
+    "domain": "encyclopedic",
+    "topic": "The Development of Quantum Computing",
+    "mean_h_l": 1.2580928547934649,
+    "h_k": 0.5553088329224016,
+    "h_k_trunc": 0.5710899755703684,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 4,
+    "domain": "encyclopedic",
+    "topic": "Endangered Giant Panda Conservation Efforts",
+    "mean_h_l": 1.178447934564899,
+    "h_k": 0.20327317679705745,
+    "h_k_trunc": 0.15974608688316608,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 4,
+    "domain": "encyclopedic",
+    "topic": "The Neolithic Revolution and Agriculture",
+    "mean_h_l": 1.0925971521369808,
+    "h_k": 0.4592972324229002,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 4,
+    "domain": "creative",
+    "topic": "Elderly watchmaker discovers secrets in ticking memories",
+    "mean_h_l": 1.7896919960770779,
+    "h_k": 0.502548820507755,
+    "h_k_trunc": 0.4954801407830505,
+    "n_tokens": 4031
+  },
+  {
+    "generation": 4,
+    "domain": "creative",
+    "topic": "Errant emails ignite a global philosophical debate",
+    "mean_h_l": 1.2285961056144217,
+    "h_k": 0.2741171342261712,
+    "h_k_trunc": 0.28786921954783495,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 4,
+    "domain": "creative",
+    "topic": "A small town shaped by the echoes of vanished trains",
+    "mean_h_l": 1.540815168575113,
+    "h_k": 0.48023632993449894,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 4,
+    "domain": "creative",
+    "topic": "Artist trapped in a monochrome world longs for color",
+    "mean_h_l": 0.9813087030158497,
+    "h_k": 0.22266917099966013,
+    "h_k_trunc": null,
+    "n_tokens": 4058
+  },
+  {
+    "generation": 4,
+    "domain": "creative",
+    "topic": "Reunion of childhood pen pals after decades of silence",
+    "mean_h_l": 1.6906893699527163,
+    "h_k": 1.8684455561768336,
+    "h_k_trunc": null,
+    "n_tokens": 4161
+  },
+  {
+    "generation": 4,
+    "domain": "creative",
+    "topic": "Migrant chef's quest for lost flavors amidst urban chaos",
+    "mean_h_l": 1.4052641159537211,
+    "h_k": 0.18254220429134915,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 4,
+    "domain": "creative",
+    "topic": "Notes scrawled on a wall change destinies in a tenement",
+    "mean_h_l": 0.9572209923118353,
+    "h_k": 0.146968681040112,
+    "h_k_trunc": 0.13802742634735904,
+    "n_tokens": 4000
+  },
+  {
+    "generation": 4,
+    "domain": "creative",
+    "topic": "Retired detective haunted by unsolved crickets' serenade",
+    "mean_h_l": 0.9772129651182186,
+    "h_k": 0.11414844342402056,
+    "h_k_trunc": 0.10474277896524965,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 4,
+    "domain": "creative",
+    "topic": "Centuries-old oak tree witnesses the decay of a lineage",
+    "mean_h_l": 1.7954231088604042,
+    "h_k": 1.0572173613068852,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 4,
+    "domain": "creative",
+    "topic": "Photographs left behind speak truths an attic divulges",
+    "mean_h_l": 1.284309020318228,
+    "h_k": 0.1474390168616379,
+    "h_k_trunc": 0.1353671595482772,
+    "n_tokens": 4170
+  },
+  {
+    "generation": 4,
+    "domain": "scientific",
+    "topic": "CRISPR-Cas systems and their applications in genome editing",
+    "mean_h_l": 0.8314533719278313,
+    "h_k": 0.5808106952348667,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 4,
+    "domain": "scientific",
+    "topic": "Quantum entanglement in semiconductor nanostructures",
+    "mean_h_l": 0.9804268071110784,
+    "h_k": 0.14559563258540023,
+    "h_k_trunc": 0.17094951192046712,
+    "n_tokens": 4000
+  },
+  {
+    "generation": 4,
+    "domain": "scientific",
+    "topic": "Advances in lithium-sulfur battery technology",
+    "mean_h_l": 1.0639112158436195,
+    "h_k": 0.560832446213251,
+    "h_k_trunc": 0.6399098840573234,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 4,
+    "domain": "scientific",
+    "topic": "Machine learning algorithms for drug discovery",
+    "mean_h_l": 1.4472094153778619,
+    "h_k": 0.2364800343950605,
+    "h_k_trunc": 0.38026732220279835,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 4,
+    "domain": "scientific",
+    "topic": "The role of gut microbiota in metabolic disorders",
+    "mean_h_l": 1.735873585794377,
+    "h_k": 0.3172981890084285,
+    "h_k_trunc": 0.3044931343674382,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 4,
+    "domain": "scientific",
+    "topic": "Graphene oxide membranes for water desalination",
+    "mean_h_l": 0.8960314739942551,
+    "h_k": 0.5999274541757724,
+    "h_k_trunc": null,
+    "n_tokens": 4000
+  },
+  {
+    "generation": 4,
+    "domain": "scientific",
+    "topic": "Superconductivity in iron-based materials",
+    "mean_h_l": 1.3507009085851316,
+    "h_k": 0.33546844147167204,
+    "h_k_trunc": null,
+    "n_tokens": 4009
+  },
+  {
+    "generation": 4,
+    "domain": "scientific",
+    "topic": "Neural network pruning methods for efficient AI models",
+    "mean_h_l": 2.2666767453049284,
+    "h_k": 1.3859114650482833,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 4,
+    "domain": "scientific",
+    "topic": "Geochemical cycles of rare earth elements",
+    "mean_h_l": 1.583063934783678,
+    "h_k": 1.4290902699050885,
+    "h_k_trunc": 1.3156844630762152,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 4,
+    "domain": "scientific",
+    "topic": "Plasmonic nanoparticles for molecular sensing",
+    "mean_h_l": 1.6869225653140965,
+    "h_k": 0.7925160045977723,
+    "h_k_trunc": 0.7127523104255519,
+    "n_tokens": 4106
+  },
+  {
+    "generation": 4,
+    "domain": "conversational",
+    "topic": "The art of people-watching in public parks",
+    "mean_h_l": 0.993372411303414,
+    "h_k": 0.10498594849556461,
+    "h_k_trunc": 0.11613416327887766,
+    "n_tokens": 4000
+  },
+  {
+    "generation": 4,
+    "domain": "conversational",
+    "topic": "Why rainy days make me feel nostalgic",
+    "mean_h_l": 1.2444113485844475,
+    "h_k": 0.6983883564478743,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 4,
+    "domain": "conversational",
+    "topic": "Cultural differences in greeting etiquette",
+    "mean_h_l": 0.7935314104600221,
+    "h_k": 0.055156347784384545,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 4,
+    "domain": "conversational",
+    "topic": "The joy of cooking without a recipe",
+    "mean_h_l": 2.266289598464057,
+    "h_k": 1.062290111072442,
+    "h_k_trunc": 0.978439707264645,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 4,
+    "domain": "conversational",
+    "topic": "Experiences with unexpected kindness from strangers",
+    "mean_h_l": 2.9133949977540197,
+    "h_k": 0.44735703887466005,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 4,
+    "domain": "conversational",
+    "topic": "Why I prefer handwritten letters over emails",
+    "mean_h_l": 1.9600792100543747,
+    "h_k": 0.9085353432665527,
+    "h_k_trunc": 1.871729744213788,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 4,
+    "domain": "conversational",
+    "topic": "Exploring local urban legends and folklore",
+    "mean_h_l": 1.4645146545461323,
+    "h_k": 0.5949135406060408,
+    "h_k_trunc": 0.6226557809937413,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 4,
+    "domain": "conversational",
+    "topic": "The evolution of my fashion sense through the years",
+    "mean_h_l": 1.5762413626747025,
+    "h_k": 0.64688503067953,
+    "h_k_trunc": 0.5957591435213909,
+    "n_tokens": 4071
+  },
+  {
+    "generation": 4,
+    "domain": "conversational",
+    "topic": "Reflections on the concept of home",
+    "mean_h_l": 1.3936336527764797,
+    "h_k": 0.11308816508890326,
+    "h_k_trunc": 0.10678095894725419,
+    "n_tokens": 4000
+  },
+  {
+    "generation": 4,
+    "domain": "conversational",
+    "topic": "Personal rituals for a peaceful morning",
+    "mean_h_l": 0.7338017690526317,
+    "h_k": 0.11911924725323943,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 5,
+    "domain": "encyclopedic",
+    "topic": "The 1969 Moon Landing",
+    "mean_h_l": 1.069015686992008,
+    "h_k": 0.2938250883055224,
+    "h_k_trunc": 0.2712438840629478,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 5,
+    "domain": "encyclopedic",
+    "topic": "Photosynthesis Process in Green Plants",
+    "mean_h_l": 0.7575437649515749,
+    "h_k": 0.2755975462927856,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 5,
+    "domain": "encyclopedic",
+    "topic": "Mount Kilimanjaro's Geographical Significance",
+    "mean_h_l": 1.021076952430716,
+    "h_k": 0.4134107921877278,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 5,
+    "domain": "encyclopedic",
+    "topic": "Achievements of Marie Curie in Science",
+    "mean_h_l": 0.9882050473588451,
+    "h_k": 0.6729792947220005,
+    "h_k_trunc": null,
+    "n_tokens": 4001
+  },
+  {
+    "generation": 5,
+    "domain": "encyclopedic",
+    "topic": "Invention of the Printing Press by Gutenberg",
+    "mean_h_l": 1.3153534267536504,
+    "h_k": 0.30795886869623135,
+    "h_k_trunc": 0.7173818042163157,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 5,
+    "domain": "encyclopedic",
+    "topic": "The Byzantine Empire's Political Structure",
+    "mean_h_l": 1.2965835296181134,
+    "h_k": 0.6345236836925073,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 5,
+    "domain": "encyclopedic",
+    "topic": "Cultural Impact of The Beatles in the 1960s",
+    "mean_h_l": 0.7838100968057562,
+    "h_k": 0.12563737431109345,
+    "h_k_trunc": 0.1198028187084461,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 5,
+    "domain": "encyclopedic",
+    "topic": "The Development of Quantum Computing",
+    "mean_h_l": 3.330246580067332,
+    "h_k": 0.1360480113766067,
+    "h_k_trunc": null,
+    "n_tokens": 4000
+  },
+  {
+    "generation": 5,
+    "domain": "encyclopedic",
+    "topic": "Endangered Giant Panda Conservation Efforts",
+    "mean_h_l": 0.9572590569337626,
+    "h_k": 0.2034715335310001,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 5,
+    "domain": "encyclopedic",
+    "topic": "The Neolithic Revolution and Agriculture",
+    "mean_h_l": 1.0892029604079954,
+    "h_k": 0.18640375252378744,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 5,
+    "domain": "creative",
+    "topic": "Elderly watchmaker discovers secrets in ticking memories",
+    "mean_h_l": 0.5786263637542725,
+    "h_k": 0.059382716942504785,
+    "h_k_trunc": 0.061919790953204,
+    "n_tokens": 4000
+  },
+  {
+    "generation": 5,
+    "domain": "creative",
+    "topic": "Errant emails ignite a global philosophical debate",
+    "mean_h_l": 1.0220618374157293,
+    "h_k": 0.3536214230805477,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 5,
+    "domain": "creative",
+    "topic": "A small town shaped by the echoes of vanished trains",
+    "mean_h_l": 0.5972504410299151,
+    "h_k": 0.13336546204500413,
+    "h_k_trunc": null,
+    "n_tokens": 4000
+  },
+  {
+    "generation": 5,
+    "domain": "creative",
+    "topic": "Artist trapped in a monochrome world longs for color",
+    "mean_h_l": 0.8927487569275121,
+    "h_k": 0.25768741994162714,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 5,
+    "domain": "creative",
+    "topic": "Reunion of childhood pen pals after decades of silence",
+    "mean_h_l": 0.9542788328115297,
+    "h_k": 0.36582852994400694,
+    "h_k_trunc": null,
+    "n_tokens": 4000
+  },
+  {
+    "generation": 5,
+    "domain": "creative",
+    "topic": "Migrant chef's quest for lost flavors amidst urban chaos",
+    "mean_h_l": 0.6387913657985645,
+    "h_k": 0.07057909386677431,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 5,
+    "domain": "creative",
+    "topic": "Notes scrawled on a wall change destinies in a tenement",
+    "mean_h_l": 1.3454156537466702,
+    "h_k": 1.0812781089677297,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 5,
+    "domain": "creative",
+    "topic": "Retired detective haunted by unsolved crickets' serenade",
+    "mean_h_l": 1.0370711269261648,
+    "h_k": 0.15138404488079493,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 5,
+    "domain": "creative",
+    "topic": "Centuries-old oak tree witnesses the decay of a lineage",
+    "mean_h_l": 0.9333592400785743,
+    "h_k": 0.3129514857017819,
+    "h_k_trunc": null,
+    "n_tokens": 4000
+  },
+  {
+    "generation": 5,
+    "domain": "creative",
+    "topic": "Photographs left behind speak truths an attic divulges",
+    "mean_h_l": 1.0078828210859854,
+    "h_k": 0.12004887241760397,
+    "h_k_trunc": null,
+    "n_tokens": 4000
+  },
+  {
+    "generation": 5,
+    "domain": "scientific",
+    "topic": "CRISPR-Cas systems and their applications in genome editing",
+    "mean_h_l": 0.9509479932102705,
+    "h_k": 1.1545329625397318,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 5,
+    "domain": "scientific",
+    "topic": "Quantum entanglement in semiconductor nanostructures",
+    "mean_h_l": 1.1083253076090616,
+    "h_k": 0.2523608912601949,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 5,
+    "domain": "scientific",
+    "topic": "Advances in lithium-sulfur battery technology",
+    "mean_h_l": 1.257298674280817,
+    "h_k": 0.3550322831351195,
+    "h_k_trunc": null,
+    "n_tokens": 4000
+  },
+  {
+    "generation": 5,
+    "domain": "scientific",
+    "topic": "Machine learning algorithms for drug discovery",
+    "mean_h_l": 0.6235367482708346,
+    "h_k": 0.5641715573466299,
+    "h_k_trunc": null,
+    "n_tokens": 4000
+  },
+  {
+    "generation": 5,
+    "domain": "scientific",
+    "topic": "The role of gut microbiota in metabolic disorders",
+    "mean_h_l": 1.305907534604049,
+    "h_k": 0.3004591181978678,
+    "h_k_trunc": null,
+    "n_tokens": 4027
+  },
+  {
+    "generation": 5,
+    "domain": "scientific",
+    "topic": "Graphene oxide membranes for water desalination",
+    "mean_h_l": 1.2061204716068117,
+    "h_k": 0.9693588287104696,
+    "h_k_trunc": null,
+    "n_tokens": 4000
+  },
+  {
+    "generation": 5,
+    "domain": "scientific",
+    "topic": "Superconductivity in iron-based materials",
+    "mean_h_l": 1.2122567674818159,
+    "h_k": 0.5840234888372875,
+    "h_k_trunc": null,
+    "n_tokens": 4000
+  },
+  {
+    "generation": 5,
+    "domain": "scientific",
+    "topic": "Neural network pruning methods for efficient AI models",
+    "mean_h_l": 0.41032008034022255,
+    "h_k": 0.06193780798777089,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 5,
+    "domain": "scientific",
+    "topic": "Geochemical cycles of rare earth elements",
+    "mean_h_l": 0.84437971504972,
+    "h_k": 0.3120034866266743,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 5,
+    "domain": "scientific",
+    "topic": "Plasmonic nanoparticles for molecular sensing",
+    "mean_h_l": 0.5661984185188356,
+    "h_k": 0.10240168145154459,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 5,
+    "domain": "conversational",
+    "topic": "The art of people-watching in public parks",
+    "mean_h_l": 1.3488413962224526,
+    "h_k": 0.17613569737072454,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 5,
+    "domain": "conversational",
+    "topic": "Why rainy days make me feel nostalgic",
+    "mean_h_l": 0.6547411072388459,
+    "h_k": 0.09206446809223053,
+    "h_k_trunc": null,
+    "n_tokens": 4000
+  },
+  {
+    "generation": 5,
+    "domain": "conversational",
+    "topic": "Cultural differences in greeting etiquette",
+    "mean_h_l": 0.9177461279686773,
+    "h_k": 0.07374384441143549,
+    "h_k_trunc": 0.08115238407855348,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 5,
+    "domain": "conversational",
+    "topic": "The joy of cooking without a recipe",
+    "mean_h_l": 1.329075738053825,
+    "h_k": 1.0043919765663027,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 5,
+    "domain": "conversational",
+    "topic": "Experiences with unexpected kindness from strangers",
+    "mean_h_l": 1.4803297280825642,
+    "h_k": 0.3188366946032087,
+    "h_k_trunc": null,
+    "n_tokens": 4000
+  },
+  {
+    "generation": 5,
+    "domain": "conversational",
+    "topic": "Why I prefer handwritten letters over emails",
+    "mean_h_l": 0.7698628797426119,
+    "h_k": 0.19535336035259004,
+    "h_k_trunc": 0.1934599526004129,
+    "n_tokens": 4000
+  },
+  {
+    "generation": 5,
+    "domain": "conversational",
+    "topic": "Exploring local urban legends and folklore",
+    "mean_h_l": 0.7246527916505082,
+    "h_k": 0.3779274024011594,
+    "h_k_trunc": null,
+    "n_tokens": 4000
+  },
+  {
+    "generation": 5,
+    "domain": "conversational",
+    "topic": "The evolution of my fashion sense through the years",
+    "mean_h_l": 1.2515062133556503,
+    "h_k": 0.3423954114432764,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 5,
+    "domain": "conversational",
+    "topic": "Reflections on the concept of home",
+    "mean_h_l": 1.4593032718628876,
+    "h_k": 1.5995737106109094,
+    "h_k_trunc": 1.631107908073485,
+    "n_tokens": 4000
+  },
+  {
+    "generation": 5,
+    "domain": "conversational",
+    "topic": "Personal rituals for a peaceful morning",
+    "mean_h_l": 1.1181562370571463,
+    "h_k": 0.1767072260990335,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 6,
+    "domain": "encyclopedic",
+    "topic": "The 1969 Moon Landing",
+    "mean_h_l": 0.8017161615643356,
+    "h_k": 0.1989177209098655,
+    "h_k_trunc": null,
+    "n_tokens": 4000
+  },
+  {
+    "generation": 6,
+    "domain": "encyclopedic",
+    "topic": "Photosynthesis Process in Green Plants",
+    "mean_h_l": 0.9099744034170102,
+    "h_k": 0.4513002781073064,
+    "h_k_trunc": null,
+    "n_tokens": 4000
+  },
+  {
+    "generation": 6,
+    "domain": "encyclopedic",
+    "topic": "Mount Kilimanjaro's Geographical Significance",
+    "mean_h_l": 0.6904005750345603,
+    "h_k": 0.09799694318106691,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 6,
+    "domain": "encyclopedic",
+    "topic": "Achievements of Marie Curie in Science",
+    "mean_h_l": 0.7195241623996455,
+    "h_k": 0.1825858682082603,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 6,
+    "domain": "encyclopedic",
+    "topic": "Invention of the Printing Press by Gutenberg",
+    "mean_h_l": 0.7351190194815691,
+    "h_k": 0.1701532916767055,
+    "h_k_trunc": null,
+    "n_tokens": 4000
+  },
+  {
+    "generation": 6,
+    "domain": "encyclopedic",
+    "topic": "The Byzantine Empire's Political Structure",
+    "mean_h_l": 0.6894005997042137,
+    "h_k": 0.09786643909080703,
+    "h_k_trunc": null,
+    "n_tokens": 4000
+  },
+  {
+    "generation": 6,
+    "domain": "encyclopedic",
+    "topic": "The Development of Quantum Computing",
+    "mean_h_l": 9.524541851975755,
+    "h_k": 1.7373207634142702,
+    "h_k_trunc": null,
+    "n_tokens": 4000
+  },
+  {
+    "generation": 6,
+    "domain": "encyclopedic",
+    "topic": "Endangered Giant Panda Conservation Efforts",
+    "mean_h_l": 0.8535051095004949,
+    "h_k": 0.10771661317771905,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 6,
+    "domain": "encyclopedic",
+    "topic": "The Neolithic Revolution and Agriculture",
+    "mean_h_l": 1.213353709459992,
+    "h_k": 0.3190705446267815,
+    "h_k_trunc": null,
+    "n_tokens": 4000
+  },
+  {
+    "generation": 6,
+    "domain": "creative",
+    "topic": "Elderly watchmaker discovers secrets in ticking memories",
+    "mean_h_l": 2.8236954824216554,
+    "h_k": 0.692673797866083,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 6,
+    "domain": "creative",
+    "topic": "Errant emails ignite a global philosophical debate",
+    "mean_h_l": 5.585934928809867,
+    "h_k": 0.16938085997967633,
+    "h_k_trunc": null,
+    "n_tokens": 4000
+  },
+  {
+    "generation": 6,
+    "domain": "creative",
+    "topic": "A small town shaped by the echoes of vanished trains",
+    "mean_h_l": 1.2686441720677546,
+    "h_k": 0.8221550110980915,
+    "h_k_trunc": null,
+    "n_tokens": 4000
+  },
+  {
+    "generation": 6,
+    "domain": "creative",
+    "topic": "Artist trapped in a monochrome world longs for color",
+    "mean_h_l": 1.0544405141100535,
+    "h_k": 0.04119287478049319,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 6,
+    "domain": "creative",
+    "topic": "Reunion of childhood pen pals after decades of silence",
+    "mean_h_l": 0.6595131135991706,
+    "h_k": 0.05674413665851621,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 6,
+    "domain": "creative",
+    "topic": "Migrant chef's quest for lost flavors amidst urban chaos",
+    "mean_h_l": 0.5268067846298218,
+    "h_k": 0.10890546806301897,
+    "h_k_trunc": null,
+    "n_tokens": 4000
+  },
+  {
+    "generation": 6,
+    "domain": "creative",
+    "topic": "Notes scrawled on a wall change destinies in a tenement",
+    "mean_h_l": 0.7907832008903851,
+    "h_k": 0.16852280532381617,
+    "h_k_trunc": null,
+    "n_tokens": 4000
+  },
+  {
+    "generation": 6,
+    "domain": "creative",
+    "topic": "Retired detective haunted by unsolved crickets' serenade",
+    "mean_h_l": 3.2919423579598615,
+    "h_k": 1.6920312398650066,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 6,
+    "domain": "creative",
+    "topic": "Centuries-old oak tree witnesses the decay of a lineage",
+    "mean_h_l": 1.019045912037211,
+    "h_k": 0.17982288737729857,
+    "h_k_trunc": null,
+    "n_tokens": 4000
+  },
+  {
+    "generation": 6,
+    "domain": "creative",
+    "topic": "Photographs left behind speak truths an attic divulges",
+    "mean_h_l": 0.6611109251617103,
+    "h_k": 0.06887204198075712,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 6,
+    "domain": "scientific",
+    "topic": "CRISPR-Cas systems and their applications in genome editing",
+    "mean_h_l": 0.6144931826826561,
+    "h_k": 0.2921225669822259,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 6,
+    "domain": "scientific",
+    "topic": "Quantum entanglement in semiconductor nanostructures",
+    "mean_h_l": 0.2933236899808753,
+    "h_k": 0.03568661763714659,
+    "h_k_trunc": null,
+    "n_tokens": 4000
+  },
+  {
+    "generation": 6,
+    "domain": "scientific",
+    "topic": "Advances in lithium-sulfur battery technology",
+    "mean_h_l": 0.6736601897437506,
+    "h_k": 0.111233476561999,
+    "h_k_trunc": 0.10865766274837863,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 6,
+    "domain": "scientific",
+    "topic": "Machine learning algorithms for drug discovery",
+    "mean_h_l": 0.3295748969684427,
+    "h_k": 0.07600513899002062,
+    "h_k_trunc": null,
+    "n_tokens": 4027
+  },
+  {
+    "generation": 6,
+    "domain": "scientific",
+    "topic": "The role of gut microbiota in metabolic disorders",
+    "mean_h_l": 1.1100081764321148,
+    "h_k": 0.31974437615056,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 6,
+    "domain": "scientific",
+    "topic": "Graphene oxide membranes for water desalination",
+    "mean_h_l": 0.5563633497931434,
+    "h_k": 0.1499014370420686,
+    "h_k_trunc": null,
+    "n_tokens": 4000
+  },
+  {
+    "generation": 6,
+    "domain": "scientific",
+    "topic": "Superconductivity in iron-based materials",
+    "mean_h_l": 0.3991550904586602,
+    "h_k": 0.055651354624613174,
+    "h_k_trunc": null,
+    "n_tokens": 4000
+  },
+  {
+    "generation": 6,
+    "domain": "scientific",
+    "topic": "Neural network pruning methods for efficient AI models",
+    "mean_h_l": 1.2493939154555411,
+    "h_k": 0.38696057870927736,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 6,
+    "domain": "scientific",
+    "topic": "Geochemical cycles of rare earth elements",
+    "mean_h_l": 0.5679289565863335,
+    "h_k": 0.18069747275984138,
+    "h_k_trunc": null,
+    "n_tokens": 4000
+  },
+  {
+    "generation": 6,
+    "domain": "scientific",
+    "topic": "Plasmonic nanoparticles for molecular sensing",
+    "mean_h_l": 2.729878050678513,
+    "h_k": 0.9723145591303193,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 6,
+    "domain": "conversational",
+    "topic": "The art of people-watching in public parks",
+    "mean_h_l": 0.846670785917921,
+    "h_k": 0.2439299713663858,
+    "h_k_trunc": null,
+    "n_tokens": 4090
+  },
+  {
+    "generation": 6,
+    "domain": "conversational",
+    "topic": "Why rainy days make me feel nostalgic",
+    "mean_h_l": 0.5684167120272736,
+    "h_k": 1.0437494511225223,
+    "h_k_trunc": null,
+    "n_tokens": 4000
+  },
+  {
+    "generation": 6,
+    "domain": "conversational",
+    "topic": "Cultural differences in greeting etiquette",
+    "mean_h_l": 2.5910149645310474,
+    "h_k": 0.27171676198379063,
+    "h_k_trunc": null,
+    "n_tokens": 4000
+  },
+  {
+    "generation": 6,
+    "domain": "conversational",
+    "topic": "The joy of cooking without a recipe",
+    "mean_h_l": 0.7815696768039797,
+    "h_k": 0.03365238301088105,
+    "h_k_trunc": null,
+    "n_tokens": 4000
+  },
+  {
+    "generation": 6,
+    "domain": "conversational",
+    "topic": "Experiences with unexpected kindness from strangers",
+    "mean_h_l": 1.2025241016150436,
+    "h_k": 0.21731099001425616,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 6,
+    "domain": "conversational",
+    "topic": "Why I prefer handwritten letters over emails",
+    "mean_h_l": 4.982872981029681,
+    "h_k": 0.20434869643847942,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 6,
+    "domain": "conversational",
+    "topic": "Exploring local urban legends and folklore",
+    "mean_h_l": 0.7539024051794968,
+    "h_k": 0.10478861576280678,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 6,
+    "domain": "conversational",
+    "topic": "The evolution of my fashion sense through the years",
+    "mean_h_l": 1.2487626351398071,
+    "h_k": 0.3258865469988641,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 6,
+    "domain": "conversational",
+    "topic": "Reflections on the concept of home",
+    "mean_h_l": 0.7214689541723927,
+    "h_k": 0.25025749898776806,
+    "h_k_trunc": null,
+    "n_tokens": 4000
+  },
+  {
+    "generation": 6,
+    "domain": "conversational",
+    "topic": "Personal rituals for a peaceful morning",
+    "mean_h_l": 1.1447791691007523,
+    "h_k": 0.29721361888312176,
+    "h_k_trunc": null,
+    "n_tokens": 4200
+  }
+]

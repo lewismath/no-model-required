@@ -1,0 +1,4 @@
+numpy
+scipy
+matplotlib
+ProcessEntropy>=1.1.2

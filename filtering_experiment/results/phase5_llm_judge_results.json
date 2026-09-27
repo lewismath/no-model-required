@@ -1,0 +1,2162 @@
+[
+  {
+    "condition": "unfiltered",
+    "domain": "encyclopedic",
+    "topic": "The 1969 Moon Landing",
+    "doc_id": 0,
+    "coherence": 3,
+    "instruction_following": 3,
+    "note": "The document contains repetitive content and lacks a clear structure, affecting coherence and instruction adherence."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "encyclopedic",
+    "topic": "The 1969 Moon Landing",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 2,
+    "note": "The document suffers from severe repetition and lacks overall coherence."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "encyclopedic",
+    "topic": "Photosynthesis Process in Green Plants",
+    "doc_id": 0,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document starts strong but becomes repetitive and less coherent in later sections."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "encyclopedic",
+    "topic": "Photosynthesis Process in Green Plants",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear structure, affecting coherence."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "encyclopedic",
+    "topic": "Mount Kilimanjaro's Geographical Significance",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks clear organization, affecting coherence."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "encyclopedic",
+    "topic": "The 1969 Moon Landing",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks coherence in later sections."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "encyclopedic",
+    "topic": "The 1969 Moon Landing",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks clear organization."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "encyclopedic",
+    "topic": "Photosynthesis Process in Green Plants",
+    "doc_id": 0,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is mostly coherent but suffers from repetitive content and some inaccuracies."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "encyclopedic",
+    "topic": "Photosynthesis Process in Green Plants",
+    "doc_id": 1,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is mostly coherent but contains some repetitive sections and minor structural issues."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "encyclopedic",
+    "topic": "Mount Kilimanjaro's Geographical Significance",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from repetitive content and lacks clear organization."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "encyclopedic",
+    "topic": "The 1969 Moon Landing",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear structure."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "encyclopedic",
+    "topic": "The 1969 Moon Landing",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks depth in later sections."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "encyclopedic",
+    "topic": "Photosynthesis Process in Green Plants",
+    "doc_id": 0,
+    "coherence": 3,
+    "instruction_following": 3,
+    "note": "The document contains repetitive sections and some incoherence towards the end."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "encyclopedic",
+    "topic": "Photosynthesis Process in Green Plants",
+    "doc_id": 1,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is mostly coherent but has some repetitive sections and a lack of clear structure towards the end."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "encyclopedic",
+    "topic": "Mount Kilimanjaro's Geographical Significance",
+    "doc_id": 0,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is mostly coherent but suffers from repetition and some disorganization."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "encyclopedic",
+    "topic": "Mount Kilimanjaro's Geographical Significance",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear structure in later sections."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "encyclopedic",
+    "topic": "Achievements of Marie Curie in Science",
+    "doc_id": 0,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is mostly coherent but suffers from repetitive sections and some structural issues."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "encyclopedic",
+    "topic": "Achievements of Marie Curie in Science",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear structure in later sections."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "encyclopedic",
+    "topic": "Invention of the Printing Press by Gutenberg",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks clear organization."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "encyclopedic",
+    "topic": "Invention of the Printing Press by Gutenberg",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 2,
+    "note": "The document suffers from excessive repetition and lacks a clear structure."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "encyclopedic",
+    "topic": "The Byzantine Empire's Political Structure",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear structure."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "encyclopedic",
+    "topic": "The Byzantine Empire's Political Structure",
+    "doc_id": 1,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is mostly coherent but suffers from repetitive content and some structural issues."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "encyclopedic",
+    "topic": "Cultural Impact of The Beatles in the 1960s",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks clear organization."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "encyclopedic",
+    "topic": "Cultural Impact of The Beatles in the 1960s",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks depth in analysis."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "encyclopedic",
+    "topic": "The Development of Quantum Computing",
+    "doc_id": 0,
+    "coherence": 3,
+    "instruction_following": 3,
+    "note": "The document contains repetitive sections and lacks clear organization, affecting coherence and instruction adherence."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "encyclopedic",
+    "topic": "The Development of Quantum Computing",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks depth in later sections."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "encyclopedic",
+    "topic": "Endangered Giant Panda Conservation Efforts",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear structure in later sections."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "encyclopedic",
+    "topic": "Endangered Giant Panda Conservation Efforts",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from severe repetition and lacks a coherent structure."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "encyclopedic",
+    "topic": "The Neolithic Revolution and Agriculture",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from excessive repetition and lacks depth, affecting coherence."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "encyclopedic",
+    "topic": "The Neolithic Revolution and Agriculture",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear structure in later sections."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "creative",
+    "topic": "Elderly watchmaker discovers secrets in ticking memories",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear narrative progression."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "creative",
+    "topic": "Elderly watchmaker discovers secrets in ticking memories",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document starts well but becomes repetitive and loses coherence in later sections."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "creative",
+    "topic": "Errant emails ignite a global philosophical debate",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from excessive repetition and lacks clear progression."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "creative",
+    "topic": "Errant emails ignite a global philosophical debate",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from excessive repetition and lacks depth in exploring the topic."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "creative",
+    "topic": "A small town shaped by the echoes of vanished trains",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 2,
+    "note": "The document suffers from excessive repetition and lacks a clear narrative progression."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "creative",
+    "topic": "A small town shaped by the echoes of vanished trains",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 2,
+    "note": "The document suffers from excessive repetition and lacks a clear progression in the narrative."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "creative",
+    "topic": "Artist trapped in a monochrome world longs for color",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 2,
+    "note": "The document suffers from excessive repetition and lacks a clear progression in the narrative."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "creative",
+    "topic": "Artist trapped in a monochrome world longs for color",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 2,
+    "note": "The document suffers from excessive repetition and lacks a clear narrative progression."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "creative",
+    "topic": "Reunion of childhood pen pals after decades of silence",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from excessive repetition and lacks a clear narrative progression."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "creative",
+    "topic": "Reunion of childhood pen pals after decades of silence",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear resolution."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "creative",
+    "topic": "Migrant chef's quest for lost flavors amidst urban chaos",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear narrative progression."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "creative",
+    "topic": "Migrant chef's quest for lost flavors amidst urban chaos",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 2,
+    "note": "The document suffers from significant repetition and lacks a clear progression in the narrative."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "creative",
+    "topic": "Notes scrawled on a wall change destinies in a tenement",
+    "doc_id": 0,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The narrative is coherent but suffers from repetitive elements and a lack of clear resolution."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "creative",
+    "topic": "Notes scrawled on a wall change destinies in a tenement",
+    "doc_id": 1,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The narrative is coherent but suffers from significant repetition and redundancy."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "creative",
+    "topic": "Retired detective haunted by unsolved crickets' serenade",
+    "doc_id": 0,
+    "coherence": 1,
+    "instruction_following": 2,
+    "note": "The document suffers from severe repetition and lacks a coherent narrative progression."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "creative",
+    "topic": "Retired detective haunted by unsolved crickets' serenade",
+    "doc_id": 1,
+    "coherence": 1,
+    "instruction_following": 1,
+    "note": "The document is repetitive and lacks a coherent narrative progression."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "creative",
+    "topic": "Centuries-old oak tree witnesses the decay of a lineage",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 2,
+    "note": "The document suffers from excessive repetition and lacks a clear progression of ideas."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "creative",
+    "topic": "Centuries-old oak tree witnesses the decay of a lineage",
+    "doc_id": 1,
+    "coherence": 1,
+    "instruction_following": 2,
+    "note": "The document suffers from severe repetition and lacks coherent progression."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "creative",
+    "topic": "Photographs left behind speak truths an attic divulges",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from excessive repetition, affecting coherence, while it attempts to explore the topic."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "creative",
+    "topic": "Photographs left behind speak truths an attic divulges",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from severe repetition and lacks progression in narrative."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "scientific",
+    "topic": "CRISPR-Cas systems and their applications in genome editing",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear structure, affecting coherence."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "scientific",
+    "topic": "CRISPR-Cas systems and their applications in genome editing",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document starts coherently but becomes repetitive and loses focus in later sections."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "scientific",
+    "topic": "Quantum entanglement in semiconductor nanostructures",
+    "doc_id": 0,
+    "coherence": 3,
+    "instruction_following": 3,
+    "note": "The document contains repetitive content and lacks depth in some sections, affecting coherence and instruction adherence."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "scientific",
+    "topic": "Quantum entanglement in semiconductor nanostructures",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks depth in analysis."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "scientific",
+    "topic": "Advances in lithium-sulfur battery technology",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear progression in later sections."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "scientific",
+    "topic": "Advances in lithium-sulfur battery technology",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear structure in later sections."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "scientific",
+    "topic": "Machine learning algorithms for drug discovery",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks coherence in later sections."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "scientific",
+    "topic": "Machine learning algorithms for drug discovery",
+    "doc_id": 1,
+    "coherence": 4,
+    "instruction_following": 5,
+    "note": "The document is mostly coherent but has some repetitive elements and minor structural issues."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "scientific",
+    "topic": "The role of gut microbiota in metabolic disorders",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear structure in later sections."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "scientific",
+    "topic": "The role of gut microbiota in metabolic disorders",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear progression of ideas."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "scientific",
+    "topic": "Graphene oxide membranes for water desalination",
+    "doc_id": 0,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is mostly coherent but suffers from significant repetition and some structural issues."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "scientific",
+    "topic": "Graphene oxide membranes for water desalination",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear progression of ideas."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "scientific",
+    "topic": "Superconductivity in iron-based materials",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear structure in later sections."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "scientific",
+    "topic": "Superconductivity in iron-based materials",
+    "doc_id": 1,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is mostly coherent but suffers from significant repetition and some structural issues."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "scientific",
+    "topic": "Neural network pruning methods for efficient AI models",
+    "doc_id": 0,
+    "coherence": 3,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and some incoherence in later sections."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "scientific",
+    "topic": "Neural network pruning methods for efficient AI models",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 2,
+    "note": "The document suffers from excessive repetition and lacks depth in discussing pruning methods."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "scientific",
+    "topic": "Geochemical cycles of rare earth elements",
+    "doc_id": 0,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is mostly coherent but contains some repetitive sections and lacks depth in certain areas."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "scientific",
+    "topic": "Geochemical cycles of rare earth elements",
+    "doc_id": 1,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is mostly coherent but suffers from repetition and some disorganization in later sections."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "scientific",
+    "topic": "Plasmonic nanoparticles for molecular sensing",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear structure in later sections."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "scientific",
+    "topic": "Plasmonic nanoparticles for molecular sensing",
+    "doc_id": 1,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is mostly coherent but suffers from some repetition and structural issues."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "conversational",
+    "topic": "The art of people-watching in public parks",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from severe repetition and lacks progression in ideas."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "conversational",
+    "topic": "The art of people-watching in public parks",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 2,
+    "note": "The document suffers from severe repetition and lacks coherent progression."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "conversational",
+    "topic": "Why rainy days make me feel nostalgic",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 2,
+    "note": "The document suffers from excessive repetition and lacks progression in ideas."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "conversational",
+    "topic": "Why rainy days make me feel nostalgic",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from excessive repetition, affecting coherence and diminishing the overall quality of the attempt."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "conversational",
+    "topic": "Cultural differences in greeting etiquette",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document starts coherently but degenerates into repetitive text, affecting coherence."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "conversational",
+    "topic": "Cultural differences in greeting etiquette",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks clarity in later sections."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "conversational",
+    "topic": "The joy of cooking without a recipe",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from excessive repetition and lacks a clear structure."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "conversational",
+    "topic": "The joy of cooking without a recipe",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from excessive repetition and lacks a clear progression of ideas."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "conversational",
+    "topic": "Experiences with unexpected kindness from strangers",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks clear progression."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "conversational",
+    "topic": "Experiences with unexpected kindness from strangers",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from excessive repetition and lacks a clear progression of ideas."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "conversational",
+    "topic": "Why I prefer handwritten letters over emails",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear progression of ideas."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "conversational",
+    "topic": "Why I prefer handwritten letters over emails",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear structure in later sections."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "conversational",
+    "topic": "Exploring local urban legends and folklore",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from excessive repetition and lacks clear progression."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "conversational",
+    "topic": "Exploring local urban legends and folklore",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear progression of ideas."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "conversational",
+    "topic": "The evolution of my fashion sense through the years",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear progression in the narrative."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "conversational",
+    "topic": "The evolution of my fashion sense through the years",
+    "doc_id": 1,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is mostly coherent but suffers from repetition and some structural issues."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "conversational",
+    "topic": "Reflections on the concept of home",
+    "doc_id": 0,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is mostly coherent but suffers from excessive repetition and some structural issues."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "conversational",
+    "topic": "Reflections on the concept of home",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from severe repetition and lacks progression in ideas."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "conversational",
+    "topic": "Personal rituals for a peaceful morning",
+    "doc_id": 0,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is mostly coherent but suffers from significant repetition and some structural issues."
+  },
+  {
+    "condition": "unfiltered",
+    "domain": "conversational",
+    "topic": "Personal rituals for a peaceful morning",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document becomes repetitive and loses focus in later sections."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "encyclopedic",
+    "topic": "Mount Kilimanjaro's Geographical Significance",
+    "doc_id": 1,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is generally coherent but suffers from repetitive content and some structural issues."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "encyclopedic",
+    "topic": "Achievements of Marie Curie in Science",
+    "doc_id": 0,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is mostly coherent but suffers from repetitive content and some structural issues."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "encyclopedic",
+    "topic": "Achievements of Marie Curie in Science",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear structure, affecting coherence."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "encyclopedic",
+    "topic": "Invention of the Printing Press by Gutenberg",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from excessive repetition and lacks clear organization."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "encyclopedic",
+    "topic": "Invention of the Printing Press by Gutenberg",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear structure."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "encyclopedic",
+    "topic": "The Byzantine Empire's Political Structure",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear structure in later sections."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "encyclopedic",
+    "topic": "The Byzantine Empire's Political Structure",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 2,
+    "note": "The document suffers from severe repetition and lacks a coherent structure."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "encyclopedic",
+    "topic": "Cultural Impact of The Beatles in the 1960s",
+    "doc_id": 0,
+    "coherence": 3,
+    "instruction_following": 3,
+    "note": "The document is repetitive and lacks clear organization, affecting coherence and instruction adherence."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "encyclopedic",
+    "topic": "Cultural Impact of The Beatles in the 1960s",
+    "doc_id": 1,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is mostly coherent but suffers from repetition and some structural issues."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "encyclopedic",
+    "topic": "The Development of Quantum Computing",
+    "doc_id": 0,
+    "coherence": 3,
+    "instruction_following": 3,
+    "note": "The document contains repetitive content and lacks depth in some sections."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "encyclopedic",
+    "topic": "The Development of Quantum Computing",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks depth in discussing key concepts."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "encyclopedic",
+    "topic": "Endangered Giant Panda Conservation Efforts",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear structure in later sections."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "encyclopedic",
+    "topic": "Endangered Giant Panda Conservation Efforts",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear structure, affecting coherence."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "encyclopedic",
+    "topic": "The Neolithic Revolution and Agriculture",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear structure in later sections."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "encyclopedic",
+    "topic": "The Neolithic Revolution and Agriculture",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks depth in analysis."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "creative",
+    "topic": "Elderly watchmaker discovers secrets in ticking memories",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from excessive repetition and lacks narrative progression."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "creative",
+    "topic": "Elderly watchmaker discovers secrets in ticking memories",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 2,
+    "note": "The document suffers from excessive repetition and lacks a clear narrative progression."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "creative",
+    "topic": "Errant emails ignite a global philosophical debate",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from repetitive content and lacks a clear progression of ideas."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "creative",
+    "topic": "Errant emails ignite a global philosophical debate",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear progression of ideas."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "creative",
+    "topic": "A small town shaped by the echoes of vanished trains",
+    "doc_id": 0,
+    "coherence": 1,
+    "instruction_following": 2,
+    "note": "The document is highly repetitive and lacks coherent progression."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "creative",
+    "topic": "A small town shaped by the echoes of vanished trains",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 2,
+    "note": "The document suffers from excessive repetition and lacks progression in ideas."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "creative",
+    "topic": "Artist trapped in a monochrome world longs for color",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 2,
+    "note": "The document suffers from excessive repetition and lacks a clear progression of ideas."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "creative",
+    "topic": "Artist trapped in a monochrome world longs for color",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document is repetitive and lacks progression, affecting coherence."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "creative",
+    "topic": "Reunion of childhood pen pals after decades of silence",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document becomes repetitive and loses coherence in later sections."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "creative",
+    "topic": "Reunion of childhood pen pals after decades of silence",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from excessive repetition and lacks progression in the narrative."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "creative",
+    "topic": "Migrant chef's quest for lost flavors amidst urban chaos",
+    "doc_id": 0,
+    "coherence": 1,
+    "instruction_following": 2,
+    "note": "The document is highly repetitive and lacks coherent progression."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "creative",
+    "topic": "Migrant chef's quest for lost flavors amidst urban chaos",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 2,
+    "note": "The document suffers from excessive repetition and lacks narrative progression."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "creative",
+    "topic": "Notes scrawled on a wall change destinies in a tenement",
+    "doc_id": 0,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The narrative is mostly coherent but suffers from repetition and some disjointed transitions."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "creative",
+    "topic": "Notes scrawled on a wall change destinies in a tenement",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 2,
+    "note": "The document suffers from significant repetition and lacks a clear narrative progression."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "creative",
+    "topic": "Retired detective haunted by unsolved crickets' serenade",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear resolution."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "creative",
+    "topic": "Retired detective haunted by unsolved crickets' serenade",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear resolution."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "creative",
+    "topic": "Centuries-old oak tree witnesses the decay of a lineage",
+    "doc_id": 0,
+    "coherence": 1,
+    "instruction_following": 2,
+    "note": "The document is repetitive and lacks coherent progression, failing to effectively convey the intended narrative."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "creative",
+    "topic": "Centuries-old oak tree witnesses the decay of a lineage",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 2,
+    "note": "The document suffers from excessive repetition and lacks a clear progression of ideas."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "creative",
+    "topic": "Photographs left behind speak truths an attic divulges",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 2,
+    "note": "The document suffers from severe repetition and lacks a coherent narrative progression."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "creative",
+    "topic": "Photographs left behind speak truths an attic divulges",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from excessive repetition and lacks a clear progression of ideas."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "scientific",
+    "topic": "CRISPR-Cas systems and their applications in genome editing",
+    "doc_id": 0,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is mostly coherent but suffers from repetition and some structural issues."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "scientific",
+    "topic": "CRISPR-Cas systems and their applications in genome editing",
+    "doc_id": 1,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is mostly coherent but suffers from some repetition and structural issues in later sections."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "scientific",
+    "topic": "Quantum entanglement in semiconductor nanostructures",
+    "doc_id": 0,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is mostly coherent but suffers from repetition and some structural issues."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "scientific",
+    "topic": "Quantum entanglement in semiconductor nanostructures",
+    "doc_id": 1,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is mostly coherent but suffers from significant repetition and some structural issues."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "scientific",
+    "topic": "Advances in lithium-sulfur battery technology",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear structure."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "scientific",
+    "topic": "Advances in lithium-sulfur battery technology",
+    "doc_id": 1,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is mostly coherent but suffers from some repetition and structural issues in later sections."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "scientific",
+    "topic": "Machine learning algorithms for drug discovery",
+    "doc_id": 0,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is mostly coherent but suffers from repetitive content and some structural issues."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "scientific",
+    "topic": "Machine learning algorithms for drug discovery",
+    "doc_id": 1,
+    "coherence": 4,
+    "instruction_following": 5,
+    "note": "The document is coherent but has some repetitive sections and minor structural issues."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "scientific",
+    "topic": "The role of gut microbiota in metabolic disorders",
+    "doc_id": 0,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is mostly coherent but suffers from excessive repetition and a lack of clear structure in later sections."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "scientific",
+    "topic": "The role of gut microbiota in metabolic disorders",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document starts coherently but degenerates into repetitive text, affecting coherence."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "scientific",
+    "topic": "Graphene oxide membranes for water desalination",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear structure in later sections."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "scientific",
+    "topic": "Graphene oxide membranes for water desalination",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks clear organization."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "scientific",
+    "topic": "Superconductivity in iron-based materials",
+    "doc_id": 0,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is mostly coherent but suffers from repetition and some structural issues."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "scientific",
+    "topic": "Superconductivity in iron-based materials",
+    "doc_id": 1,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is mostly coherent but suffers from significant repetition and some structural issues."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "scientific",
+    "topic": "Neural network pruning methods for efficient AI models",
+    "doc_id": 0,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is mostly coherent but suffers from repetitive content and some structural issues."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "scientific",
+    "topic": "Neural network pruning methods for efficient AI models",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from excessive repetition and lacks depth in discussing pruning methods."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "scientific",
+    "topic": "Geochemical cycles of rare earth elements",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks depth in later sections."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "scientific",
+    "topic": "Geochemical cycles of rare earth elements",
+    "doc_id": 1,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is mostly coherent but suffers from repetitive content and some structural issues."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "scientific",
+    "topic": "Plasmonic nanoparticles for molecular sensing",
+    "doc_id": 0,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is mostly coherent but suffers from significant repetition and some structural issues."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "scientific",
+    "topic": "Plasmonic nanoparticles for molecular sensing",
+    "doc_id": 1,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is mostly coherent but suffers from significant repetition and structural issues."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "conversational",
+    "topic": "The art of people-watching in public parks",
+    "doc_id": 0,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is mostly coherent but suffers from significant repetition and some structural issues."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "conversational",
+    "topic": "The art of people-watching in public parks",
+    "doc_id": 1,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is mostly coherent but suffers from significant repetition and some structural issues."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "conversational",
+    "topic": "Why rainy days make me feel nostalgic",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from excessive repetition and lacks clear progression."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "conversational",
+    "topic": "Why rainy days make me feel nostalgic",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from excessive repetition and lacks clear progression."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "conversational",
+    "topic": "Cultural differences in greeting etiquette",
+    "doc_id": 0,
+    "coherence": 1,
+    "instruction_following": 2,
+    "note": "The document is highly repetitive and lacks coherent structure."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "conversational",
+    "topic": "Cultural differences in greeting etiquette",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from repetitive content and lacks a clear structure."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "conversational",
+    "topic": "The joy of cooking without a recipe",
+    "doc_id": 0,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document maintains coherence but becomes repetitive and somewhat disorganized in later sections."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "conversational",
+    "topic": "The joy of cooking without a recipe",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear structure towards the end."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "conversational",
+    "topic": "Experiences with unexpected kindness from strangers",
+    "doc_id": 0,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is coherent but becomes repetitive and somewhat disorganized in later sections."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "conversational",
+    "topic": "Experiences with unexpected kindness from strangers",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks variety in encounters."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "conversational",
+    "topic": "Why I prefer handwritten letters over emails",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear structure."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "conversational",
+    "topic": "Why I prefer handwritten letters over emails",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear structure, affecting coherence."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "conversational",
+    "topic": "Exploring local urban legends and folklore",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 2,
+    "note": "The document suffers from significant repetition and lacks variety in content."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "conversational",
+    "topic": "Exploring local urban legends and folklore",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks variety in content."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "conversational",
+    "topic": "The evolution of my fashion sense through the years",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear progression in the narrative."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "conversational",
+    "topic": "The evolution of my fashion sense through the years",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks clear progression in ideas."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "conversational",
+    "topic": "Reflections on the concept of home",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from excessive repetition and lacks a clear progression of ideas."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "conversational",
+    "topic": "Reflections on the concept of home",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear progression of ideas."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "conversational",
+    "topic": "Personal rituals for a peaceful morning",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document becomes repetitive and loses coherence in later sections."
+  },
+  {
+    "condition": "hl_filter",
+    "domain": "conversational",
+    "topic": "Personal rituals for a peaceful morning",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from severe repetition and lacks coherence in later sections."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "encyclopedic",
+    "topic": "Mount Kilimanjaro's Geographical Significance",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear structure, affecting coherence."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "encyclopedic",
+    "topic": "Achievements of Marie Curie in Science",
+    "doc_id": 0,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is mostly coherent but suffers from significant repetition and some structural issues."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "encyclopedic",
+    "topic": "Achievements of Marie Curie in Science",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear structure in later sections."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "encyclopedic",
+    "topic": "Invention of the Printing Press by Gutenberg",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear structure in later sections."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "encyclopedic",
+    "topic": "Invention of the Printing Press by Gutenberg",
+    "doc_id": 1,
+    "coherence": 3,
+    "instruction_following": 3,
+    "note": "The document is repetitive and lacks clear organization, affecting coherence and instruction adherence."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "encyclopedic",
+    "topic": "The Byzantine Empire's Political Structure",
+    "doc_id": 0,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is mostly coherent but suffers from repetitive content and structural issues."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "encyclopedic",
+    "topic": "The Byzantine Empire's Political Structure",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear structure in later sections."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "encyclopedic",
+    "topic": "Cultural Impact of The Beatles in the 1960s",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks clear organization, affecting coherence."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "encyclopedic",
+    "topic": "Cultural Impact of The Beatles in the 1960s",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear structure."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "encyclopedic",
+    "topic": "The Development of Quantum Computing",
+    "doc_id": 0,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is mostly coherent but suffers from repetition and some inaccuracies in historical details."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "encyclopedic",
+    "topic": "The Development of Quantum Computing",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 2,
+    "note": "The document suffers from excessive repetition and lacks depth in discussing key concepts."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "encyclopedic",
+    "topic": "Endangered Giant Panda Conservation Efforts",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear structure, affecting coherence."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "encyclopedic",
+    "topic": "Endangered Giant Panda Conservation Efforts",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear structure in later sections."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "encyclopedic",
+    "topic": "The Neolithic Revolution and Agriculture",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 2,
+    "note": "The document suffers from significant repetition and lacks a clear structure."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "encyclopedic",
+    "topic": "The Neolithic Revolution and Agriculture",
+    "doc_id": 1,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is mostly coherent but suffers from repetition and some structural issues in later sections."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "creative",
+    "topic": "Elderly watchmaker discovers secrets in ticking memories",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear progression of ideas."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "creative",
+    "topic": "Elderly watchmaker discovers secrets in ticking memories",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The narrative becomes repetitive and loses clarity in later sections."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "creative",
+    "topic": "Errant emails ignite a global philosophical debate",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and a lack of clear progression in ideas."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "creative",
+    "topic": "Errant emails ignite a global philosophical debate",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from repetitive content and lacks a clear progression of ideas."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "creative",
+    "topic": "A small town shaped by the echoes of vanished trains",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from excessive repetition and lacks a clear progression of ideas."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "creative",
+    "topic": "A small town shaped by the echoes of vanished trains",
+    "doc_id": 1,
+    "coherence": 3,
+    "instruction_following": 3,
+    "note": "The narrative is repetitive and lacks clear progression, affecting coherence and engagement."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "creative",
+    "topic": "Artist trapped in a monochrome world longs for color",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document becomes repetitive and loses coherence in later sections."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "creative",
+    "topic": "Artist trapped in a monochrome world longs for color",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear progression in the narrative."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "creative",
+    "topic": "Reunion of childhood pen pals after decades of silence",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document starts strong but becomes repetitive and loses focus in later sections."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "creative",
+    "topic": "Reunion of childhood pen pals after decades of silence",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document loses coherence due to excessive repetition and strays from the original topic of childhood pen pals."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "creative",
+    "topic": "Migrant chef's quest for lost flavors amidst urban chaos",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from excessive repetition and lacks a clear narrative progression."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "creative",
+    "topic": "Migrant chef's quest for lost flavors amidst urban chaos",
+    "doc_id": 1,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document maintains coherence but suffers from excessive repetition, particularly in later sections."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "creative",
+    "topic": "Notes scrawled on a wall change destinies in a tenement",
+    "doc_id": 0,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The narrative is coherent but becomes repetitive and loses focus on the initial theme."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "creative",
+    "topic": "Notes scrawled on a wall change destinies in a tenement",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from excessive repetition and lacks a clear progression in the narrative."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "creative",
+    "topic": "Retired detective haunted by unsolved crickets' serenade",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from excessive repetition and lacks a clear resolution."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "creative",
+    "topic": "Retired detective haunted by unsolved crickets' serenade",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from excessive repetition and lacks a clear resolution."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "creative",
+    "topic": "Centuries-old oak tree witnesses the decay of a lineage",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 2,
+    "note": "The document suffers from excessive repetition and lacks a clear progression of ideas."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "creative",
+    "topic": "Centuries-old oak tree witnesses the decay of a lineage",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from excessive repetition and lacks a clear progression of ideas."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "creative",
+    "topic": "Photographs left behind speak truths an attic divulges",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 2,
+    "note": "The document suffers from significant repetition and lacks a clear progression of ideas."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "creative",
+    "topic": "Photographs left behind speak truths an attic divulges",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear progression of ideas."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "scientific",
+    "topic": "CRISPR-Cas systems and their applications in genome editing",
+    "doc_id": 0,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is mostly coherent but suffers from excessive repetition and some structural issues."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "scientific",
+    "topic": "CRISPR-Cas systems and their applications in genome editing",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a coherent structure in later sections."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "scientific",
+    "topic": "Quantum entanglement in semiconductor nanostructures",
+    "doc_id": 0,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is mostly coherent but suffers from significant repetition and some structural issues."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "scientific",
+    "topic": "Quantum entanglement in semiconductor nanostructures",
+    "doc_id": 1,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is mostly coherent but suffers from some repetitive sections and lacks depth in certain areas."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "scientific",
+    "topic": "Advances in lithium-sulfur battery technology",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear structure in later sections."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "scientific",
+    "topic": "Advances in lithium-sulfur battery technology",
+    "doc_id": 1,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is mostly coherent but suffers from some repetitive sections and lacks a clear structure in later parts."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "scientific",
+    "topic": "Machine learning algorithms for drug discovery",
+    "doc_id": 0,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is mostly coherent but suffers from significant repetition and some structural issues."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "scientific",
+    "topic": "Machine learning algorithms for drug discovery",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear structure in later sections."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "scientific",
+    "topic": "The role of gut microbiota in metabolic disorders",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and some incoherence in later sections."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "scientific",
+    "topic": "The role of gut microbiota in metabolic disorders",
+    "doc_id": 1,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is mostly coherent but suffers from significant repetition and some structural issues."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "scientific",
+    "topic": "Graphene oxide membranes for water desalination",
+    "doc_id": 0,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is mostly coherent but suffers from significant repetition and some structural issues."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "scientific",
+    "topic": "Graphene oxide membranes for water desalination",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear structure in later sections."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "scientific",
+    "topic": "Superconductivity in iron-based materials",
+    "doc_id": 0,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is mostly coherent but contains some repetitive sections and lacks clear organization."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "scientific",
+    "topic": "Superconductivity in iron-based materials",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks clear progression in ideas."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "scientific",
+    "topic": "Neural network pruning methods for efficient AI models",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear structure in later sections."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "scientific",
+    "topic": "Neural network pruning methods for efficient AI models",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear structure in later sections."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "scientific",
+    "topic": "Geochemical cycles of rare earth elements",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a coherent structure."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "scientific",
+    "topic": "Geochemical cycles of rare earth elements",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear structure in later sections."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "scientific",
+    "topic": "Plasmonic nanoparticles for molecular sensing",
+    "doc_id": 0,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is mostly coherent but suffers from significant repetition and some structural issues."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "scientific",
+    "topic": "Plasmonic nanoparticles for molecular sensing",
+    "doc_id": 1,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is mostly coherent but suffers from significant repetition and some structural issues."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "conversational",
+    "topic": "The art of people-watching in public parks",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear progression of ideas."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "conversational",
+    "topic": "The art of people-watching in public parks",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear progression of ideas."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "conversational",
+    "topic": "Why rainy days make me feel nostalgic",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from excessive repetition and lacks a clear progression of ideas."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "conversational",
+    "topic": "Why rainy days make me feel nostalgic",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from excessive repetition and lacks a clear progression of ideas."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "conversational",
+    "topic": "Cultural differences in greeting etiquette",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from excessive repetition and lacks a clear structure."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "conversational",
+    "topic": "Cultural differences in greeting etiquette",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear structure."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "conversational",
+    "topic": "The joy of cooking without a recipe",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear structure."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "conversational",
+    "topic": "The joy of cooking without a recipe",
+    "doc_id": 1,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is mostly coherent but becomes repetitive and loses focus in later sections."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "conversational",
+    "topic": "Experiences with unexpected kindness from strangers",
+    "doc_id": 0,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is coherent but suffers from excessive repetition and redundancy."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "conversational",
+    "topic": "Experiences with unexpected kindness from strangers",
+    "doc_id": 1,
+    "coherence": 3,
+    "instruction_following": 3,
+    "note": "The document is repetitive and loses focus in later sections."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "conversational",
+    "topic": "Why I prefer handwritten letters over emails",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and some incoherence in later sections."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "conversational",
+    "topic": "Why I prefer handwritten letters over emails",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document starts well but becomes repetitive and loses focus on the main topic."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "conversational",
+    "topic": "Exploring local urban legends and folklore",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear structure."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "conversational",
+    "topic": "Exploring local urban legends and folklore",
+    "doc_id": 1,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document maintains a coherent narrative but suffers from repetitive elements and some disorganization."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "conversational",
+    "topic": "The evolution of my fashion sense through the years",
+    "doc_id": 0,
+    "coherence": 3,
+    "instruction_following": 3,
+    "note": "The document has repetitive sections and lacks a clear progression in the narrative."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "conversational",
+    "topic": "The evolution of my fashion sense through the years",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 2,
+    "note": "The document suffers from significant repetition and lacks a clear, cohesive narrative."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "conversational",
+    "topic": "Reflections on the concept of home",
+    "doc_id": 0,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and lacks a clear progression of ideas."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "conversational",
+    "topic": "Reflections on the concept of home",
+    "doc_id": 1,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is repetitive and lacks progression, affecting coherence."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "conversational",
+    "topic": "Personal rituals for a peaceful morning",
+    "doc_id": 0,
+    "coherence": 3,
+    "instruction_following": 4,
+    "note": "The document is mostly coherent but suffers from significant repetition and some structural issues."
+  },
+  {
+    "condition": "hk_filter",
+    "domain": "conversational",
+    "topic": "Personal rituals for a peaceful morning",
+    "doc_id": 1,
+    "coherence": 2,
+    "instruction_following": 3,
+    "note": "The document suffers from significant repetition and a lack of clear structure, affecting coherence."
+  }
+]

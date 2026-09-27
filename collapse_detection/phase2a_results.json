@@ -1,0 +1,1122 @@
+[
+  {
+    "generation": 0,
+    "domain": "encyclopedic",
+    "topic": "The 1969 Moon Landing",
+    "mean_h_l": 1.2801178537613005,
+    "h_k": 5.996922389926065,
+    "n_tokens": 3400
+  },
+  {
+    "generation": 0,
+    "domain": "encyclopedic",
+    "topic": "Photosynthesis Process in Green Plants",
+    "mean_h_l": 1.1278986529825408,
+    "h_k": 6.120354428686385,
+    "n_tokens": 3400
+  },
+  {
+    "generation": 0,
+    "domain": "encyclopedic",
+    "topic": "Mount Kilimanjaro's Geographical Significance",
+    "mean_h_l": 1.403917675965803,
+    "h_k": 6.3008285039249845,
+    "n_tokens": 3400
+  },
+  {
+    "generation": 0,
+    "domain": "encyclopedic",
+    "topic": "Achievements of Marie Curie in Science",
+    "mean_h_l": 1.478544205772213,
+    "h_k": 6.158673106212855,
+    "n_tokens": 3400
+  },
+  {
+    "generation": 0,
+    "domain": "encyclopedic",
+    "topic": "Invention of the Printing Press by Gutenberg",
+    "mean_h_l": 1.5284308824786956,
+    "h_k": 5.920554906118016,
+    "n_tokens": 3394
+  },
+  {
+    "generation": 0,
+    "domain": "encyclopedic",
+    "topic": "The Byzantine Empire's Political Structure",
+    "mean_h_l": 1.3744763971363425,
+    "h_k": 6.0011579654658345,
+    "n_tokens": 3340
+  },
+  {
+    "generation": 0,
+    "domain": "encyclopedic",
+    "topic": "Cultural Impact of The Beatles in the 1960s",
+    "mean_h_l": 1.2937712668215628,
+    "h_k": 5.877524017041636,
+    "n_tokens": 3400
+  },
+  {
+    "generation": 0,
+    "domain": "encyclopedic",
+    "topic": "The Development of Quantum Computing",
+    "mean_h_l": 1.2968448917940714,
+    "h_k": 6.173662356040842,
+    "n_tokens": 3400
+  },
+  {
+    "generation": 0,
+    "domain": "encyclopedic",
+    "topic": "Endangered Giant Panda Conservation Efforts",
+    "mean_h_l": 1.449872122942548,
+    "h_k": 6.047105097121011,
+    "n_tokens": 3394
+  },
+  {
+    "generation": 0,
+    "domain": "encyclopedic",
+    "topic": "The Neolithic Revolution and Agriculture",
+    "mean_h_l": 1.2324732930703735,
+    "h_k": 6.0118905137644,
+    "n_tokens": 3400
+  },
+  {
+    "generation": 0,
+    "domain": "creative",
+    "topic": "Elderly watchmaker discovers secrets in ticking memories",
+    "mean_h_l": 2.5560620910255745,
+    "h_k": 6.750236183547529,
+    "n_tokens": 3229
+  },
+  {
+    "generation": 0,
+    "domain": "creative",
+    "topic": "Errant emails ignite a global philosophical debate",
+    "mean_h_l": 2.3596460071801104,
+    "h_k": 6.971801561162052,
+    "n_tokens": 3263
+  },
+  {
+    "generation": 0,
+    "domain": "creative",
+    "topic": "A small town shaped by the echoes of vanished trains",
+    "mean_h_l": 2.184169994743933,
+    "h_k": 6.598153111077156,
+    "n_tokens": 3381
+  },
+  {
+    "generation": 0,
+    "domain": "creative",
+    "topic": "Artist trapped in a monochrome world longs for color",
+    "mean_h_l": 1.9876111971361685,
+    "h_k": 6.271936437623414,
+    "n_tokens": 3400
+  },
+  {
+    "generation": 0,
+    "domain": "creative",
+    "topic": "Reunion of childhood pen pals after decades of silence",
+    "mean_h_l": 2.1305489314113717,
+    "h_k": 6.681654201356196,
+    "n_tokens": 3400
+  },
+  {
+    "generation": 0,
+    "domain": "creative",
+    "topic": "Migrant chef's quest for lost flavors amidst urban chaos",
+    "mean_h_l": 2.1677572632068567,
+    "h_k": 6.576131925266706,
+    "n_tokens": 3400
+  },
+  {
+    "generation": 0,
+    "domain": "creative",
+    "topic": "Notes scrawled on a wall change destinies in a tenement",
+    "mean_h_l": 2.160429600852452,
+    "h_k": 6.507520393046445,
+    "n_tokens": 3400
+  },
+  {
+    "generation": 0,
+    "domain": "creative",
+    "topic": "Retired detective haunted by unsolved crickets' serenade",
+    "mean_h_l": 2.0928049028401974,
+    "h_k": 6.8096713995682085,
+    "n_tokens": 3400
+  },
+  {
+    "generation": 0,
+    "domain": "creative",
+    "topic": "Centuries-old oak tree witnesses the decay of a lineage",
+    "mean_h_l": 2.2729062879510815,
+    "h_k": 6.402385696788035,
+    "n_tokens": 3400
+  },
+  {
+    "generation": 0,
+    "domain": "creative",
+    "topic": "Photographs left behind speak truths an attic divulges",
+    "mean_h_l": 2.020540082838074,
+    "h_k": 6.334220903052222,
+    "n_tokens": 3360
+  },
+  {
+    "generation": 1,
+    "domain": "encyclopedic",
+    "topic": "The 1969 Moon Landing",
+    "mean_h_l": 1.2890452060548632,
+    "h_k": 5.812774765367682,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 1,
+    "domain": "encyclopedic",
+    "topic": "Photosynthesis Process in Green Plants",
+    "mean_h_l": 1.3880731879020762,
+    "h_k": 6.408208569003566,
+    "n_tokens": 4093
+  },
+  {
+    "generation": 1,
+    "domain": "encyclopedic",
+    "topic": "Mount Kilimanjaro's Geographical Significance",
+    "mean_h_l": 1.1337107128806347,
+    "h_k": 6.125324318713611,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 1,
+    "domain": "encyclopedic",
+    "topic": "Achievements of Marie Curie in Science",
+    "mean_h_l": 1.5058884416768272,
+    "h_k": 6.083924011825118,
+    "n_tokens": 4001
+  },
+  {
+    "generation": 1,
+    "domain": "encyclopedic",
+    "topic": "Invention of the Printing Press by Gutenberg",
+    "mean_h_l": 1.6045770555111025,
+    "h_k": 6.33468941408162,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 1,
+    "domain": "encyclopedic",
+    "topic": "The Byzantine Empire's Political Structure",
+    "mean_h_l": 1.0813805090997806,
+    "h_k": 6.208486486947294,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 1,
+    "domain": "encyclopedic",
+    "topic": "Cultural Impact of The Beatles in the 1960s",
+    "mean_h_l": 1.459234321732345,
+    "h_k": 5.573455206869561,
+    "n_tokens": 4123
+  },
+  {
+    "generation": 1,
+    "domain": "encyclopedic",
+    "topic": "The Development of Quantum Computing",
+    "mean_h_l": 0.8554759473122818,
+    "h_k": 6.386353615385379,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 1,
+    "domain": "encyclopedic",
+    "topic": "Endangered Giant Panda Conservation Efforts",
+    "mean_h_l": 1.2980151298065508,
+    "h_k": 6.27614705362197,
+    "n_tokens": 4191
+  },
+  {
+    "generation": 1,
+    "domain": "encyclopedic",
+    "topic": "The Neolithic Revolution and Agriculture",
+    "mean_h_l": 1.0925303955854504,
+    "h_k": 6.259487204347801,
+    "n_tokens": 4062
+  },
+  {
+    "generation": 1,
+    "domain": "creative",
+    "topic": "Elderly watchmaker discovers secrets in ticking memories",
+    "mean_h_l": 1.7917217947478838,
+    "h_k": 6.589951596262265,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 1,
+    "domain": "creative",
+    "topic": "Errant emails ignite a global philosophical debate",
+    "mean_h_l": 1.9572760755599337,
+    "h_k": 6.863336697483401,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 1,
+    "domain": "creative",
+    "topic": "A small town shaped by the echoes of vanished trains",
+    "mean_h_l": 1.9389299128578386,
+    "h_k": 6.712425563433111,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 1,
+    "domain": "creative",
+    "topic": "Artist trapped in a monochrome world longs for color",
+    "mean_h_l": 1.978446240748337,
+    "h_k": 6.1225935200573005,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 1,
+    "domain": "creative",
+    "topic": "Reunion of childhood pen pals after decades of silence",
+    "mean_h_l": 1.8554589642326282,
+    "h_k": 6.50211980382804,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 1,
+    "domain": "creative",
+    "topic": "Migrant chef's quest for lost flavors amidst urban chaos",
+    "mean_h_l": 2.0288655910328446,
+    "h_k": 6.472667161717665,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 1,
+    "domain": "creative",
+    "topic": "Notes scrawled on a wall change destinies in a tenement",
+    "mean_h_l": 1.914200969815203,
+    "h_k": 6.35382137094199,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 1,
+    "domain": "creative",
+    "topic": "Retired detective haunted by unsolved crickets' serenade",
+    "mean_h_l": 1.9092200047859513,
+    "h_k": 6.7356825697700655,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 1,
+    "domain": "creative",
+    "topic": "Centuries-old oak tree witnesses the decay of a lineage",
+    "mean_h_l": 2.0176740357150518,
+    "h_k": 6.363458946170513,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 1,
+    "domain": "creative",
+    "topic": "Photographs left behind speak truths an attic divulges",
+    "mean_h_l": 1.9416670351907526,
+    "h_k": 6.558478964003793,
+    "n_tokens": 4200
+  },
+  {
+    "generation": 2,
+    "domain": "encyclopedic",
+    "topic": "The 1969 Moon Landing",
+    "mean_h_l": 1.5102990616716339,
+    "h_k": 5.7467496155543465,
+    "n_tokens": 4620
+  },
+  {
+    "generation": 2,
+    "domain": "encyclopedic",
+    "topic": "Photosynthesis Process in Green Plants",
+    "mean_h_l": 0.9552574090265588,
+    "h_k": 6.268999435313371,
+    "n_tokens": 4424
+  },
+  {
+    "generation": 2,
+    "domain": "encyclopedic",
+    "topic": "Mount Kilimanjaro's Geographical Significance",
+    "mean_h_l": 1.2226370042586827,
+    "h_k": 6.059625716552371,
+    "n_tokens": 4391
+  },
+  {
+    "generation": 2,
+    "domain": "encyclopedic",
+    "topic": "Achievements of Marie Curie in Science",
+    "mean_h_l": 1.3439567984897554,
+    "h_k": 6.103487133190159,
+    "n_tokens": 4577
+  },
+  {
+    "generation": 2,
+    "domain": "encyclopedic",
+    "topic": "Invention of the Printing Press by Gutenberg",
+    "mean_h_l": 1.4708142965020339,
+    "h_k": 5.683262052508506,
+    "n_tokens": 4550
+  },
+  {
+    "generation": 2,
+    "domain": "encyclopedic",
+    "topic": "The Byzantine Empire's Political Structure",
+    "mean_h_l": 1.3944360638013442,
+    "h_k": 5.689037782702031,
+    "n_tokens": 4552
+  },
+  {
+    "generation": 2,
+    "domain": "encyclopedic",
+    "topic": "Cultural Impact of The Beatles in the 1960s",
+    "mean_h_l": 1.0510305362403005,
+    "h_k": 5.666638381449541,
+    "n_tokens": 4698
+  },
+  {
+    "generation": 2,
+    "domain": "encyclopedic",
+    "topic": "The Development of Quantum Computing",
+    "mean_h_l": 0.9240388272997734,
+    "h_k": 6.176092997365237,
+    "n_tokens": 4710
+  },
+  {
+    "generation": 2,
+    "domain": "encyclopedic",
+    "topic": "Endangered Giant Panda Conservation Efforts",
+    "mean_h_l": 1.18123160153433,
+    "h_k": 6.188008130372497,
+    "n_tokens": 4572
+  },
+  {
+    "generation": 2,
+    "domain": "encyclopedic",
+    "topic": "The Neolithic Revolution and Agriculture",
+    "mean_h_l": 0.7980762021220499,
+    "h_k": 6.0380088177370626,
+    "n_tokens": 4325
+  },
+  {
+    "generation": 2,
+    "domain": "creative",
+    "topic": "Elderly watchmaker discovers secrets in ticking memories",
+    "mean_h_l": 1.7318773991981435,
+    "h_k": 6.664099863711318,
+    "n_tokens": 4305
+  },
+  {
+    "generation": 2,
+    "domain": "creative",
+    "topic": "Errant emails ignite a global philosophical debate",
+    "mean_h_l": 2.0094260077702564,
+    "h_k": 6.270660268476617,
+    "n_tokens": 4532
+  },
+  {
+    "generation": 2,
+    "domain": "creative",
+    "topic": "A small town shaped by the echoes of vanished trains",
+    "mean_h_l": 1.7477775199313443,
+    "h_k": 6.6801932316004,
+    "n_tokens": 4274
+  },
+  {
+    "generation": 2,
+    "domain": "creative",
+    "topic": "Artist trapped in a monochrome world longs for color",
+    "mean_h_l": 1.7512073321290473,
+    "h_k": 6.086935398694447,
+    "n_tokens": 4698
+  },
+  {
+    "generation": 2,
+    "domain": "creative",
+    "topic": "Reunion of childhood pen pals after decades of silence",
+    "mean_h_l": 1.948748038033012,
+    "h_k": 6.36201583162053,
+    "n_tokens": 4534
+  },
+  {
+    "generation": 2,
+    "domain": "creative",
+    "topic": "Migrant chef's quest for lost flavors amidst urban chaos",
+    "mean_h_l": 1.792484039823182,
+    "h_k": 6.280722164127688,
+    "n_tokens": 4576
+  },
+  {
+    "generation": 2,
+    "domain": "creative",
+    "topic": "Notes scrawled on a wall change destinies in a tenement",
+    "mean_h_l": 1.8909328776052827,
+    "h_k": 6.184902088524113,
+    "n_tokens": 4488
+  },
+  {
+    "generation": 2,
+    "domain": "creative",
+    "topic": "Retired detective haunted by unsolved crickets' serenade",
+    "mean_h_l": 2.117032431260788,
+    "h_k": 6.377705793134832,
+    "n_tokens": 4472
+  },
+  {
+    "generation": 2,
+    "domain": "creative",
+    "topic": "Centuries-old oak tree witnesses the decay of a lineage",
+    "mean_h_l": 1.2985597907112556,
+    "h_k": 6.351062539998188,
+    "n_tokens": 4492
+  },
+  {
+    "generation": 2,
+    "domain": "creative",
+    "topic": "Photographs left behind speak truths an attic divulges",
+    "mean_h_l": 2.0122883063357833,
+    "h_k": 6.221779707166353,
+    "n_tokens": 4540
+  },
+  {
+    "generation": 3,
+    "domain": "encyclopedic",
+    "topic": "The 1969 Moon Landing",
+    "mean_h_l": 1.0058170851654529,
+    "h_k": 5.948261959428913,
+    "n_tokens": 5417
+  },
+  {
+    "generation": 3,
+    "domain": "encyclopedic",
+    "topic": "Photosynthesis Process in Green Plants",
+    "mean_h_l": 0.9341201713058467,
+    "h_k": 6.154718643668772,
+    "n_tokens": 4798
+  },
+  {
+    "generation": 3,
+    "domain": "encyclopedic",
+    "topic": "Mount Kilimanjaro's Geographical Significance",
+    "mean_h_l": 0.9823509253850622,
+    "h_k": 5.96043548670551,
+    "n_tokens": 4630
+  },
+  {
+    "generation": 3,
+    "domain": "encyclopedic",
+    "topic": "Achievements of Marie Curie in Science",
+    "mean_h_l": 1.2360340706386728,
+    "h_k": 5.941488970890024,
+    "n_tokens": 5234
+  },
+  {
+    "generation": 3,
+    "domain": "encyclopedic",
+    "topic": "Invention of the Printing Press by Gutenberg",
+    "mean_h_l": 0.8752088832451873,
+    "h_k": 5.636898398180427,
+    "n_tokens": 5207
+  },
+  {
+    "generation": 3,
+    "domain": "encyclopedic",
+    "topic": "The Byzantine Empire's Political Structure",
+    "mean_h_l": 1.351888054918624,
+    "h_k": 5.67547265030894,
+    "n_tokens": 5269
+  },
+  {
+    "generation": 3,
+    "domain": "encyclopedic",
+    "topic": "Cultural Impact of The Beatles in the 1960s",
+    "mean_h_l": 0.85931920173776,
+    "h_k": 5.5685109700991475,
+    "n_tokens": 5318
+  },
+  {
+    "generation": 3,
+    "domain": "encyclopedic",
+    "topic": "The Development of Quantum Computing",
+    "mean_h_l": 1.0091908284882678,
+    "h_k": 6.295331035350086,
+    "n_tokens": 5175
+  },
+  {
+    "generation": 3,
+    "domain": "encyclopedic",
+    "topic": "Endangered Giant Panda Conservation Efforts",
+    "mean_h_l": 0.956542261963983,
+    "h_k": 6.067357240924428,
+    "n_tokens": 5121
+  },
+  {
+    "generation": 3,
+    "domain": "encyclopedic",
+    "topic": "The Neolithic Revolution and Agriculture",
+    "mean_h_l": 1.4661353129068124,
+    "h_k": 5.678062206217028,
+    "n_tokens": 4630
+  },
+  {
+    "generation": 3,
+    "domain": "creative",
+    "topic": "Elderly watchmaker discovers secrets in ticking memories",
+    "mean_h_l": 1.4224631315875613,
+    "h_k": 6.688571150649905,
+    "n_tokens": 4556
+  },
+  {
+    "generation": 3,
+    "domain": "creative",
+    "topic": "Errant emails ignite a global philosophical debate",
+    "mean_h_l": 1.852018717938424,
+    "h_k": 6.238836774883634,
+    "n_tokens": 5104
+  },
+  {
+    "generation": 3,
+    "domain": "creative",
+    "topic": "A small town shaped by the echoes of vanished trains",
+    "mean_h_l": 1.705542063504046,
+    "h_k": 6.626756794218516,
+    "n_tokens": 4536
+  },
+  {
+    "generation": 3,
+    "domain": "creative",
+    "topic": "Artist trapped in a monochrome world longs for color",
+    "mean_h_l": 1.8206311244834685,
+    "h_k": 6.216012150958567,
+    "n_tokens": 5361
+  },
+  {
+    "generation": 3,
+    "domain": "creative",
+    "topic": "Reunion of childhood pen pals after decades of silence",
+    "mean_h_l": 1.7067693089012925,
+    "h_k": 6.199816152330292,
+    "n_tokens": 5036
+  },
+  {
+    "generation": 3,
+    "domain": "creative",
+    "topic": "Migrant chef's quest for lost flavors amidst urban chaos",
+    "mean_h_l": 1.6094567184350654,
+    "h_k": 6.480247706139746,
+    "n_tokens": 5124
+  },
+  {
+    "generation": 3,
+    "domain": "creative",
+    "topic": "Notes scrawled on a wall change destinies in a tenement",
+    "mean_h_l": 1.8968342673311676,
+    "h_k": 6.324963305297722,
+    "n_tokens": 4780
+  },
+  {
+    "generation": 3,
+    "domain": "creative",
+    "topic": "Retired detective haunted by unsolved crickets' serenade",
+    "mean_h_l": 1.8416708264627022,
+    "h_k": 6.729459172689643,
+    "n_tokens": 4700
+  },
+  {
+    "generation": 3,
+    "domain": "creative",
+    "topic": "Centuries-old oak tree witnesses the decay of a lineage",
+    "mean_h_l": 1.3762338714395996,
+    "h_k": 6.505918202866851,
+    "n_tokens": 4744
+  },
+  {
+    "generation": 3,
+    "domain": "creative",
+    "topic": "Photographs left behind speak truths an attic divulges",
+    "mean_h_l": 1.748730247706784,
+    "h_k": 6.279419328140492,
+    "n_tokens": 4973
+  },
+  {
+    "generation": 4,
+    "domain": "encyclopedic",
+    "topic": "The 1969 Moon Landing",
+    "mean_h_l": 1.457472648197301,
+    "h_k": 5.876389634221454,
+    "n_tokens": 6209
+  },
+  {
+    "generation": 4,
+    "domain": "encyclopedic",
+    "topic": "Photosynthesis Process in Green Plants",
+    "mean_h_l": 1.149849551961756,
+    "h_k": 6.2947722850324475,
+    "n_tokens": 5364
+  },
+  {
+    "generation": 4,
+    "domain": "encyclopedic",
+    "topic": "Mount Kilimanjaro's Geographical Significance",
+    "mean_h_l": 1.1742868501740378,
+    "h_k": 6.0648294940599525,
+    "n_tokens": 4855
+  },
+  {
+    "generation": 4,
+    "domain": "encyclopedic",
+    "topic": "Achievements of Marie Curie in Science",
+    "mean_h_l": 0.8733837629964999,
+    "h_k": 5.826601075067549,
+    "n_tokens": 5972
+  },
+  {
+    "generation": 4,
+    "domain": "encyclopedic",
+    "topic": "Invention of the Printing Press by Gutenberg",
+    "mean_h_l": 1.1381632618833353,
+    "h_k": 5.7680462629500955,
+    "n_tokens": 5898
+  },
+  {
+    "generation": 4,
+    "domain": "encyclopedic",
+    "topic": "The Byzantine Empire's Political Structure",
+    "mean_h_l": 1.403776738018662,
+    "h_k": 5.8710088666710725,
+    "n_tokens": 6078
+  },
+  {
+    "generation": 4,
+    "domain": "encyclopedic",
+    "topic": "Cultural Impact of The Beatles in the 1960s",
+    "mean_h_l": 0.8269819123280863,
+    "h_k": 5.497536785054165,
+    "n_tokens": 6154
+  },
+  {
+    "generation": 4,
+    "domain": "encyclopedic",
+    "topic": "The Development of Quantum Computing",
+    "mean_h_l": 0.8102185998387464,
+    "h_k": 6.164150034131445,
+    "n_tokens": 5736
+  },
+  {
+    "generation": 4,
+    "domain": "encyclopedic",
+    "topic": "Endangered Giant Panda Conservation Efforts",
+    "mean_h_l": 0.8049730567633316,
+    "h_k": 6.125214302481098,
+    "n_tokens": 5754
+  },
+  {
+    "generation": 4,
+    "domain": "encyclopedic",
+    "topic": "The Neolithic Revolution and Agriculture",
+    "mean_h_l": 1.3389537440852683,
+    "h_k": 5.918160968674102,
+    "n_tokens": 5153
+  },
+  {
+    "generation": 4,
+    "domain": "creative",
+    "topic": "Elderly watchmaker discovers secrets in ticking memories",
+    "mean_h_l": 1.932603580281276,
+    "h_k": 6.72503452089873,
+    "n_tokens": 4808
+  },
+  {
+    "generation": 4,
+    "domain": "creative",
+    "topic": "Errant emails ignite a global philosophical debate",
+    "mean_h_l": 1.880656627348773,
+    "h_k": 6.245884016769041,
+    "n_tokens": 5781
+  },
+  {
+    "generation": 4,
+    "domain": "creative",
+    "topic": "A small town shaped by the echoes of vanished trains",
+    "mean_h_l": 1.7110520655609103,
+    "h_k": 5.948541856811563,
+    "n_tokens": 4630
+  },
+  {
+    "generation": 4,
+    "domain": "creative",
+    "topic": "Artist trapped in a monochrome world longs for color",
+    "mean_h_l": 1.982726332122396,
+    "h_k": 6.372430183862213,
+    "n_tokens": 6137
+  },
+  {
+    "generation": 4,
+    "domain": "creative",
+    "topic": "Reunion of childhood pen pals after decades of silence",
+    "mean_h_l": 1.255708213328311,
+    "h_k": 6.493019741203825,
+    "n_tokens": 5585
+  },
+  {
+    "generation": 4,
+    "domain": "creative",
+    "topic": "Migrant chef's quest for lost flavors amidst urban chaos",
+    "mean_h_l": 2.0312882837082835,
+    "h_k": 6.434035686722575,
+    "n_tokens": 5399
+  },
+  {
+    "generation": 4,
+    "domain": "creative",
+    "topic": "Notes scrawled on a wall change destinies in a tenement",
+    "mean_h_l": 1.944861747225614,
+    "h_k": 6.242237441566907,
+    "n_tokens": 5202
+  },
+  {
+    "generation": 4,
+    "domain": "creative",
+    "topic": "Retired detective haunted by unsolved crickets' serenade",
+    "mean_h_l": 1.5983328877977563,
+    "h_k": 6.8710749810168466,
+    "n_tokens": 5030
+  },
+  {
+    "generation": 4,
+    "domain": "creative",
+    "topic": "Centuries-old oak tree witnesses the decay of a lineage",
+    "mean_h_l": 1.5596196452181734,
+    "h_k": 6.408010890572,
+    "n_tokens": 4970
+  },
+  {
+    "generation": 4,
+    "domain": "creative",
+    "topic": "Photographs left behind speak truths an attic divulges",
+    "mean_h_l": 1.891798617575672,
+    "h_k": 6.123189467145803,
+    "n_tokens": 5345
+  },
+  {
+    "generation": 5,
+    "domain": "encyclopedic",
+    "topic": "The 1969 Moon Landing",
+    "mean_h_l": 1.330795094249896,
+    "h_k": 5.91455373810453,
+    "n_tokens": 7103
+  },
+  {
+    "generation": 5,
+    "domain": "encyclopedic",
+    "topic": "Photosynthesis Process in Green Plants",
+    "mean_h_l": 0.8564902021683863,
+    "h_k": 6.282918323989236,
+    "n_tokens": 6037
+  },
+  {
+    "generation": 5,
+    "domain": "encyclopedic",
+    "topic": "Mount Kilimanjaro's Geographical Significance",
+    "mean_h_l": 1.0782035642599828,
+    "h_k": 6.197069400784244,
+    "n_tokens": 5113
+  },
+  {
+    "generation": 5,
+    "domain": "encyclopedic",
+    "topic": "Achievements of Marie Curie in Science",
+    "mean_h_l": 0.7468172531818305,
+    "h_k": 5.833597834311332,
+    "n_tokens": 6840
+  },
+  {
+    "generation": 5,
+    "domain": "encyclopedic",
+    "topic": "Invention of the Printing Press by Gutenberg",
+    "mean_h_l": 1.0438596110312008,
+    "h_k": 5.832074638053457,
+    "n_tokens": 6661
+  },
+  {
+    "generation": 5,
+    "domain": "encyclopedic",
+    "topic": "The Byzantine Empire's Political Structure",
+    "mean_h_l": 1.3269302715933438,
+    "h_k": 5.836526786887579,
+    "n_tokens": 6918
+  },
+  {
+    "generation": 5,
+    "domain": "encyclopedic",
+    "topic": "Cultural Impact of The Beatles in the 1960s",
+    "mean_h_l": 0.9587138019085981,
+    "h_k": 5.297428339517744,
+    "n_tokens": 7166
+  },
+  {
+    "generation": 5,
+    "domain": "encyclopedic",
+    "topic": "The Development of Quantum Computing",
+    "mean_h_l": 1.0723510129261402,
+    "h_k": 6.071354852239568,
+    "n_tokens": 6372
+  },
+  {
+    "generation": 5,
+    "domain": "encyclopedic",
+    "topic": "Endangered Giant Panda Conservation Efforts",
+    "mean_h_l": 1.2500506359479937,
+    "h_k": 5.759597400651273,
+    "n_tokens": 6392
+  },
+  {
+    "generation": 5,
+    "domain": "encyclopedic",
+    "topic": "The Neolithic Revolution and Agriculture",
+    "mean_h_l": 1.0931238989122405,
+    "h_k": 5.850901033805349,
+    "n_tokens": 5645
+  },
+  {
+    "generation": 5,
+    "domain": "creative",
+    "topic": "Elderly watchmaker discovers secrets in ticking memories",
+    "mean_h_l": 2.010194160249602,
+    "h_k": 6.335844722005201,
+    "n_tokens": 4757
+  },
+  {
+    "generation": 5,
+    "domain": "creative",
+    "topic": "Errant emails ignite a global philosophical debate",
+    "mean_h_l": 1.8577487508212274,
+    "h_k": 6.240026031604895,
+    "n_tokens": 6582
+  },
+  {
+    "generation": 5,
+    "domain": "creative",
+    "topic": "A small town shaped by the echoes of vanished trains",
+    "mean_h_l": 1.7106549348540463,
+    "h_k": 6.195399467932858,
+    "n_tokens": 5137
+  },
+  {
+    "generation": 5,
+    "domain": "creative",
+    "topic": "Artist trapped in a monochrome world longs for color",
+    "mean_h_l": 1.9752075016115818,
+    "h_k": 6.108183632826528,
+    "n_tokens": 6705
+  },
+  {
+    "generation": 5,
+    "domain": "creative",
+    "topic": "Reunion of childhood pen pals after decades of silence",
+    "mean_h_l": 1.9766651352680726,
+    "h_k": 6.3474902169783745,
+    "n_tokens": 5927
+  },
+  {
+    "generation": 5,
+    "domain": "creative",
+    "topic": "Migrant chef's quest for lost flavors amidst urban chaos",
+    "mean_h_l": 1.625298060076113,
+    "h_k": 6.4547371890912535,
+    "n_tokens": 5868
+  },
+  {
+    "generation": 5,
+    "domain": "creative",
+    "topic": "Notes scrawled on a wall change destinies in a tenement",
+    "mean_h_l": 1.9714320537400207,
+    "h_k": 6.222638058567695,
+    "n_tokens": 5824
+  },
+  {
+    "generation": 5,
+    "domain": "creative",
+    "topic": "Retired detective haunted by unsolved crickets' serenade",
+    "mean_h_l": 1.4996866827803366,
+    "h_k": 6.949217506271476,
+    "n_tokens": 5308
+  },
+  {
+    "generation": 5,
+    "domain": "creative",
+    "topic": "Centuries-old oak tree witnesses the decay of a lineage",
+    "mean_h_l": 1.0460583913379071,
+    "h_k": 6.169361372996557,
+    "n_tokens": 5257
+  },
+  {
+    "generation": 5,
+    "domain": "creative",
+    "topic": "Photographs left behind speak truths an attic divulges",
+    "mean_h_l": 1.8617046942018787,
+    "h_k": 6.092213387140517,
+    "n_tokens": 5866
+  },
+  {
+    "generation": 6,
+    "domain": "encyclopedic",
+    "topic": "The 1969 Moon Landing",
+    "mean_h_l": 0.9343034665448703,
+    "h_k": 6.12121306457746,
+    "n_tokens": 8178
+  },
+  {
+    "generation": 6,
+    "domain": "encyclopedic",
+    "topic": "Photosynthesis Process in Green Plants",
+    "mean_h_l": 0.9345291690373233,
+    "h_k": 6.08072842132242,
+    "n_tokens": 6765
+  },
+  {
+    "generation": 6,
+    "domain": "encyclopedic",
+    "topic": "Mount Kilimanjaro's Geographical Significance",
+    "mean_h_l": 1.1049951791422188,
+    "h_k": 6.087761903237113,
+    "n_tokens": 5308
+  },
+  {
+    "generation": 6,
+    "domain": "encyclopedic",
+    "topic": "Achievements of Marie Curie in Science",
+    "mean_h_l": 0.8728151943012903,
+    "h_k": 5.779778740559663,
+    "n_tokens": 7852
+  },
+  {
+    "generation": 6,
+    "domain": "encyclopedic",
+    "topic": "Invention of the Printing Press by Gutenberg",
+    "mean_h_l": 0.5983093914957376,
+    "h_k": 5.875878561918136,
+    "n_tokens": 7440
+  },
+  {
+    "generation": 6,
+    "domain": "encyclopedic",
+    "topic": "The Byzantine Empire's Political Structure",
+    "mean_h_l": 1.0831532089642681,
+    "h_k": 5.979433245836911,
+    "n_tokens": 7856
+  },
+  {
+    "generation": 6,
+    "domain": "encyclopedic",
+    "topic": "Cultural Impact of The Beatles in the 1960s",
+    "mean_h_l": 1.2001752788602273,
+    "h_k": 5.560586946471871,
+    "n_tokens": 8349
+  },
+  {
+    "generation": 6,
+    "domain": "encyclopedic",
+    "topic": "The Development of Quantum Computing",
+    "mean_h_l": 1.3789802018470743,
+    "h_k": 5.746327648237102,
+    "n_tokens": 7109
+  },
+  {
+    "generation": 6,
+    "domain": "encyclopedic",
+    "topic": "Endangered Giant Panda Conservation Efforts",
+    "mean_h_l": 1.0498168972410045,
+    "h_k": 5.959499978422261,
+    "n_tokens": 7142
+  },
+  {
+    "generation": 6,
+    "domain": "encyclopedic",
+    "topic": "The Neolithic Revolution and Agriculture",
+    "mean_h_l": 1.0315223081678533,
+    "h_k": 5.836858704656045,
+    "n_tokens": 6149
+  },
+  {
+    "generation": 6,
+    "domain": "creative",
+    "topic": "Elderly watchmaker discovers secrets in ticking memories",
+    "mean_h_l": 1.807879948377261,
+    "h_k": 6.291304492546765,
+    "n_tokens": 5312
+  },
+  {
+    "generation": 6,
+    "domain": "creative",
+    "topic": "Errant emails ignite a global philosophical debate",
+    "mean_h_l": 1.8727924805024951,
+    "h_k": 6.194776225174087,
+    "n_tokens": 7424
+  },
+  {
+    "generation": 6,
+    "domain": "creative",
+    "topic": "A small town shaped by the echoes of vanished trains",
+    "mean_h_l": 1.833554144212461,
+    "h_k": 6.242389750696353,
+    "n_tokens": 5629
+  },
+  {
+    "generation": 6,
+    "domain": "creative",
+    "topic": "Artist trapped in a monochrome world longs for color",
+    "mean_h_l": 1.900641666682104,
+    "h_k": 6.287693018192054,
+    "n_tokens": 7446
+  },
+  {
+    "generation": 6,
+    "domain": "creative",
+    "topic": "Reunion of childhood pen pals after decades of silence",
+    "mean_h_l": 1.8880051989355566,
+    "h_k": 6.176276135056049,
+    "n_tokens": 6538
+  },
+  {
+    "generation": 6,
+    "domain": "creative",
+    "topic": "Migrant chef's quest for lost flavors amidst urban chaos",
+    "mean_h_l": 1.7180939906322952,
+    "h_k": 6.436681043490552,
+    "n_tokens": 6360
+  },
+  {
+    "generation": 6,
+    "domain": "creative",
+    "topic": "Notes scrawled on a wall change destinies in a tenement",
+    "mean_h_l": 1.8913834768193922,
+    "h_k": 6.011819965785618,
+    "n_tokens": 6420
+  },
+  {
+    "generation": 6,
+    "domain": "creative",
+    "topic": "Retired detective haunted by unsolved crickets' serenade",
+    "mean_h_l": 1.6682178868750592,
+    "h_k": 6.839311361359276,
+    "n_tokens": 5517
+  },
+  {
+    "generation": 6,
+    "domain": "creative",
+    "topic": "Centuries-old oak tree witnesses the decay of a lineage",
+    "mean_h_l": 1.5092524938169993,
+    "h_k": 6.356627555737928,
+    "n_tokens": 5610
+  },
+  {
+    "generation": 6,
+    "domain": "creative",
+    "topic": "Photographs left behind speak truths an attic divulges",
+    "mean_h_l": 1.720462591630325,
+    "h_k": 5.7349972985190805,
+    "n_tokens": 6404
+  }
+]
