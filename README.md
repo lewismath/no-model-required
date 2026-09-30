@@ -122,7 +122,7 @@ python compute_summary.py --raw-dir /path/to/phase5-raw
 
 ## Acknowledgments
 
-This research was supported by the Australian Government through the Australian Research Council's Discovery Projects funding scheme (project DP210103700). Computational resources provided by the Phoenix HPC cluster at the Adelaide University. The $\hat H_K$ estimator implementation builds on [`ProcessEntropy`](https://github.com/tobinsouth/ProcessEntropy) (Tobin South).
+This research was supported by the Australian Government through the Australian Research Council's Discovery Projects funding scheme (project DP210103700). Computational resources provided by the Phoenix HPC cluster at Adelaide University. The $\hat H_K$ estimator implementation builds on [`ProcessEntropy`](https://github.com/tobinsouth/ProcessEntropy) (Tobin South).
 
 ## License
 
