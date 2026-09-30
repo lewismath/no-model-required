@@ -1,11 +1,13 @@
-<img src="assets/adsc_logo.jpg" align="right" width="110" alt="Adelaide Data Science Centre">
+[<img src="assets/adsc_logo.jpg" align="right" width="110" alt="Adelaide Data Science Centre">](https://adelaide.edu.au/research/adelaide-data-science-centre/)
 
-# No Model Required
+# No Model Required: Text Entropy Rate Filtering Mitigates Iterative Fine-Tuning Collapse
 
-**Text Entropy Rate Filtering Mitigates Iterative Fine-Tuning Collapse**
+**NeurIPS 2026**
 
 [Lewis Mitchell](mailto:lewis.mitchell@adelaide.edu.au) · Adelaide Data Science Centre, Adelaide University
-**NeurIPS 2026** · [OpenReview](https://openreview.net/forum?id=1rTomFsjg0) · [Paper PDF](https://openreview.net/pdf?id=1rTomFsjg0)
+
+arXiv:soon · [OpenReview](https://openreview.net/forum?id=1rTomFsjg0) · [Paper PDF](https://openreview.net/pdf?id=1rTomFsjg0)
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -34,7 +36,7 @@ Generation-6 outcomes, $n=80$ documents/condition, $p$-values from Welch's $t$-t
 
 ## What's in this repo
 
-This is a **showcase and reproduction** repo, not the full research codebase — it mirrors the paper's structure and includes everything needed to reproduce the headline result and figure, without the underlying 1.6 GB of raw generated text (available separately, see below).
+This repo mirrors the paper's structure and includes everything needed to reproduce the headline result and figure, without the underlying 1.6 GB of raw generated text (available separately, see below).
 
 ```
 hk/                        Section 2 — the Ĥ_K estimator itself
@@ -114,8 +116,7 @@ python compute_summary.py --raw-dir /path/to/phase5-raw
   title     = {No Model Required: Text Entropy Rate Filtering Mitigates Iterative Fine-Tuning Collapse},
   author    = {Mitchell, Lewis},
   booktitle = {Advances in Neural Information Processing Systems},
-  year      = {2026},
-  url       = {https://openreview.net/forum?id=1rTomFsjg0}
+  year      = {2026}
 }
 ```
 
