@@ -6,7 +6,7 @@
 
 [Lewis Mitchell](mailto:lewis.mitchell@adelaide.edu.au) · Adelaide Data Science Centre, Adelaide University
 
-arXiv:soon · [OpenReview](https://openreview.net/forum?id=1rTomFsjg0) · [Paper PDF](https://openreview.net/pdf?id=1rTomFsjg0)
+[arXiv:2610.01493](https://arxiv.org/abs/2610.01493) · [OpenReview](https://openreview.net/forum?id=1rTomFsjg0) · [Paper PDF](https://openreview.net/pdf?id=1rTomFsjg0)
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -116,7 +116,9 @@ python compute_summary.py --raw-dir /path/to/phase5-raw
   title     = {No Model Required: Text Entropy Rate Filtering Mitigates Iterative Fine-Tuning Collapse},
   author    = {Mitchell, Lewis},
   booktitle = {Advances in Neural Information Processing Systems},
-  year      = {2026}
+  year      = {2026},
+  eprint    = {2610.01493},
+  archivePrefix = {arXiv}
 }
 ```
 
