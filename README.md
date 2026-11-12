@@ -6,12 +6,18 @@
 
 [Lewis Mitchell](mailto:lewis.mitchell@adelaide.edu.au) · Adelaide Data Science Centre, Adelaide University
 
-[arXiv:2610.01493](https://arxiv.org/abs/2610.01493) · [OpenReview](https://openreview.net/forum?id=1rTomFsjg0) · [Paper PDF](https://openreview.net/pdf?id=1rTomFsjg0)
+[arXiv:2610.01493](https://arxiv.org/abs/2610.01493) · [OpenReview](https://openreview.net/forum?id=1rTomFsjg0) · [Paper PDF](https://openreview.net/pdf?id=1rTomFsjg0) · [Video Abstract](https://youtu.be/MA4E-aO0j5o)
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
+
+<p align="center">
+  <a href="https://youtu.be/MA4E-aO0j5o">
+    <img src="https://img.youtube.com/vi/MA4E-aO0j5o/0.jpg" alt="Video abstract" width="500">
+  </a>
+</p>
 
 Iterative fine-tuning on synthetic data causes **model collapse**: output diversity narrows as rare patterns are progressively lost, a signature most visible as phrase-level repetition. Existing mitigations either require model log-probabilities, an external oracle, or continued access to real human data.
 
